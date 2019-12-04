@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Alexandre de Verteuil
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Customer Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Grafana Labs
+  url: "https://grafana.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I do systems administration and customer support
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Systems administration
+- Business management
+- Business documentation
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Certificat en informatique appliquée
+    institution: Téluq
+    year: 2016
+  - course: Diplôme d'études collégiales en Arts plastiques
+    institution: Cégep de Longueuil
+    year: 2006
+  - course: Diplôme d'études collégiales en pilotage d'aéronefs
+    institution: Cégep de Chicoutimi
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:alexandre@deverteuil.net'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/SystemPk
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/adeverteuil
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +67,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Professionel de l'informatique à Montréal, Canada.
+Actuellement Senior customer engineer chez [Grafana Labs](https://grafana.com/).
+Je suis passionné de logiciels libres, d'automatisation et d'internet. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Computer professionnal in Montreal, Canada.
+Currently working as a Senior client engineer at [Grafana Labs](https://grafana.com/).
+I'm passionate about free (as in *libre*) software, automation and internet. 
