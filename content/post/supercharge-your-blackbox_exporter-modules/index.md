@@ -3,12 +3,12 @@
 
 title: "Supercharge your blackbox_exporter modules"
 subtitle: ""
-summary: ""
+summary: "Using regexes to pass multiple parameters to each blackbox target."
 authors: []
-tags: []
-categories: []
-date: 2019-12-04T00:00:21-05:00
-lastmod: 2019-12-04T00:00:21-05:00
+tags: ["sysadmin", "monitoring", "prometheus"]
+categories: ["informatique"]
+date: 2019-01-07
+lastmod: 2019-01-07
 featured: false
 draft: false
 
