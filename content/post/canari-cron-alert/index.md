@@ -5,8 +5,8 @@ title: "Canari Cron Alert"
 subtitle: ""
 summary: "Trigger an alert from a cronjob daily at noon local time as a canary alert for the monitoring of the monitoring system itself."
 authors: []
-tags: []
-categories: []
+tags: ["sysadmin", "monitoring", "prometheus"]
+categories: ["informatique"]
 date: 2018-04-25
 lastmod: 2018-04-25
 featured: false
