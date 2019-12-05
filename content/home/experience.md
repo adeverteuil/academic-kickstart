@@ -39,6 +39,10 @@ date_format = "Jan 2006"
   location = "Montreal"
   date_start = "2014-01-01"
   date_end = "2018-09-01"
-  description = """Technical support, from T1 to T3."""
+  description = """
+  System Administrator, Tier 3
+
+  I started as a T1 technical support agent and progressed to T3.
+  """
 
 +++
