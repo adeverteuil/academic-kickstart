@@ -6,7 +6,7 @@ subtitle: ""
 summary: "How to use certbot --manual to obtain and renew Let's Encrypt SSL certificates on an Nginx or HAProxy load balancer."
 authors: []
 tags: ["sysadmin", "protocols", "prog", "foss"]
-categories: []
+categories: ["informatique"]
 date: 2019-04-16
 lastmod: 2019-04-16
 featured: false
