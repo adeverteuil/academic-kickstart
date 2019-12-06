@@ -5,8 +5,8 @@ title: "Boîtier d'ordinateur en bois"
 subtitle: ""
 summary: "Présentation de mon projet de boîtier de PC en bois."
 authors: []
-tags: []
-categories: ["personnel"]
+tags: ["création"]
+categories: ["informatique"]
 date: 2012-07-05
 lastmod: 2012-07-05
 featured: false
