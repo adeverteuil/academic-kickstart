@@ -7,8 +7,8 @@ summary: "How to use certbot --manual to obtain and renew Let's Encrypt SSL cert
 authors: []
 tags: ["sysadmin", "protocols", "prog", "foss"]
 categories: ["informatique"]
-date: 2019-04-16
-lastmod: 2019-04-16
+date: 2017-04-16
+lastmod: 2017-04-16
 featured: false
 draft: false
 
