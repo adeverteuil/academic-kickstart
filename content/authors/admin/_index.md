@@ -22,8 +22,9 @@ bio: I do systems administration and customer support
 
 interests:
 - Systems administration
-- Business management
 - Business documentation
+- Parkour
+- Art
 
 education:
   courses:
