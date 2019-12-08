@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Une vidéo de moi qui fait un salto arrière au Gymnix."
 authors: []
 tags: ["vidéo", "parkour"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2009-03-26
 lastmod: 2009-03-26
 featured: false

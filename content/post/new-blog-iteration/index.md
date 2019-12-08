@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Migrating my blog from my homebrew Django application to Pelican, the static site generator written in Python."
 authors: []
 tags: ["sysadmin", "prog"]
-categories: []
+categories: ["informatique"]
 date: 2016-08-05
 lastmod: 2016-08-05
 featured: false

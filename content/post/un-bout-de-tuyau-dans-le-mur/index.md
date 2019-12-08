@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Une vidéo de moi qui réussit un challenge de grimpe au Stade Olympique."
 authors: []
 tags: ["vidéo", "parkour"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2013-09-13
 lastmod: 2013-09-13
 featured: false

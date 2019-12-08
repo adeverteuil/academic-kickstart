@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Des séquences vidéo de mon groupe d'amis dans un jam de parkour un jour de pluie."
 authors: []
 tags: ["vidéo", "parkour"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2013-10-11
 lastmod: 2013-10-11
 featured: false

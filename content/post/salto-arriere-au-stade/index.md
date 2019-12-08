@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Une vidéo de moi qui fait un salto arrière au Stade Olympique de Montréal."
 authors: []
 tags: ["parkour", "vidéo"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2009-04-25
 lastmod: 2009-04-25
 featured: false

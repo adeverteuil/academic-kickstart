@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Mon premier vidéo monté à l'aide d'un script Bash (ligne de commande). C'est un film de ma gang de parkour."
 authors: []
 tags: ["vidéo", "parkour"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2013-06-21
 lastmod: 2013-06-21
 featured: false

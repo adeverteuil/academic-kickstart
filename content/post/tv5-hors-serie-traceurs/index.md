@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Reportage vidéo sur le parkour à la grandeur du Québec diffusé sur TV5."
 authors: []
 tags: ["vidéo", "parkour"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2010-10-09
 lastmod: 2010-10-09
 featured: false

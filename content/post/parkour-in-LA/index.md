@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Quick training session before catching the bus to Las Vegas."
 authors: []
 tags: ["parkour", "vidéo"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2019-03-02
 lastmod: 2019-03-02
 featured: false

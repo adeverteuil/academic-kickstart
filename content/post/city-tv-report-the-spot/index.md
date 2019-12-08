@@ -6,7 +6,7 @@ subtitle: ""
 summary: "TV report about the Spot, a recently opened parkour training facility in Montreal. This is where I train."
 authors: []
 tags: ["vidéo", "parkour"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2014-09-15
 lastmod: 2014-09-15
 featured: false

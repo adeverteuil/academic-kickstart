@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Une vidéo de mon entraînement de parkour. Le thème de la journée sont les rotation."
 authors: []
 tags: ["vidéo", "parkour"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2015-03-23
 lastmod: 2015-03-23
 featured: false

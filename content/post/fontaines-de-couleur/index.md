@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Un court-métrage de mes amis et moi qui dansent devant des fontaines colorées au Stade Olympique la nuit."
 authors: []
 tags: ["vidéo", "création"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2013-09-11
 lastmod: 2013-09-11
 featured: false

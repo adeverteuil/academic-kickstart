@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Don't hold back from buying a managed switch because it's noisy. Case modding is totally an option!"
 authors: []
 tags: ["création", "sysadmin"]
-categories: []
+categories: ["informatique"]
 date: 2016-01-22
 lastmod: 2016-01-22
 featured: false

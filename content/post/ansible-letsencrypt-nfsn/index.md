@@ -6,7 +6,7 @@ subtitle: ""
 summary: "A playbook to get an SSL certificate from Let's Encrypt and install it on a NearlyFreeSpeech.net site using Ansible's letsencrypt module"
 authors: []
 tags: ["sysadmin", "prog", "foss"]
-categories: []
+categories: ["informatique"]
 date: 2016-08-22
 lastmod: 2016-08-22
 featured: false

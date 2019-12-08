@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Just my buddies and I commiting crime."
 authors: []
 tags: ["vidéo", "parkour"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2015-06-12
 lastmod: 2015-06-12
 featured: false

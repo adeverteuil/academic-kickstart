@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Deux séquences que j'ai prises lors de mon entraînement du 13 novembre 2016"
 authors: []
 tags: ["parkour", "vidéo"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2016-11-19
 lastmod: 2016-11-19
 featured: false

@@ -6,7 +6,7 @@ subtitle: ""
 summary: "A parkour training video with my group doing co-op moves"
 authors: []
 tags: ["parkour", "vidéo"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2015-06-28
 lastmod: 2015-06-28
 featured: false

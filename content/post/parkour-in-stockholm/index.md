@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Training session in Stockholm, Sweden."
 authors: []
 tags: ["parkour", "vidéo"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2019-05-02
 lastmod: 2019-05-02
 featured: false

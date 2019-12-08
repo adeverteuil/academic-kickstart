@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Une liste de vidéos sélectionnés sur YouTube qui expliquent ce qu'est le parkour."
 authors: []
 tags: ["vidéo", "parkour"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2013-02-10
 lastmod: 2013-02-10
 featured: false

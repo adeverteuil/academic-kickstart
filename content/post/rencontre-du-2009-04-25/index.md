@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Film d'un jam de parkour au Stade Olympique de Montréal. 4 minutes."
 authors: []
 tags: ["parkour", "vidéo"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2009-06-26
 lastmod: 2009-06-26
 featured: false

@@ -6,7 +6,7 @@ subtitle: ""
 summary: "My site now has a Let's Encrypt SSL certificate. Let’s Encrypt is a new Certificate Authority: It’s free, automated, and open."
 authors: []
 tags: ["infosec", "sysadmin"]
-categories: []
+categories: ["informatique"]
 date: 2015-12-06
 lastmod: 2015-12-06
 featured: false

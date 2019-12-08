@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Une vidéo de mon entraînement de parkour au Spot, le gym de parkour à Montréal."
 authors: []
 tags: ["vidéo", "parkour"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2014-11-12
 lastmod: 2014-11-12
 featured: false

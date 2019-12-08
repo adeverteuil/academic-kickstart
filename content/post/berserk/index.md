@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Une vidéo de mes amis de parkour qui font des sauts-de-détente–saut-de-bras très larges."
 authors: []
 tags: ["parkour", "vidéo"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2013-09-22
 lastmod: 2013-09-22
 featured: false

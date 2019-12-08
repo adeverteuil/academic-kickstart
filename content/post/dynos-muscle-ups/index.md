@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Une vidéo de mon entraînement de parkour. Le thème de la journée est dynos et muscle-ups."
 authors: []
 tags: ["parkour", "vidéo"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2015-02-27
 lastmod: 2015-02-27
 featured: false

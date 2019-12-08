@@ -6,7 +6,7 @@ subtitle: ""
 summary: "Séquences vidéo non éditées prises au Stade Olympique."
 authors: []
 tags: ["vidéo", "parkour"]
-categories: ["personnel"]
+categories: ["parkour"]
 date: 2012-01-27
 lastmod: 2012-01-27
 featured: false
