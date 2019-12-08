@@ -3,6 +3,8 @@
 linktitle: Archlinux Console Fonts Previews
 summary: An organized gallery of Linux console fonts screenshots
 weight: 1
+aliases:
+  - /pages/consolefonts/
 
 # Page metadata.
 title: Archlinux Console Fonts Previews
@@ -11,13 +13,16 @@ lastmod: "2019-12-08"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
+menu_name: archlinux-consolefonts
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
+  archlinux-consolefonts:
+    name: Previews
+    parent: Archlinux Console Fonts Previews
   docs:
-    identifier: consolefonts
 ---
 
 ## Introduction

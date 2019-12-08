@@ -1,16 +1,19 @@
 ---
-title: consolefontsdump.py
+title: Script consolefontsdump.py
 linktitle: consolefontsdump.py
 toc: false
 type: docs
 date: "2012-08-06"
 draft: false
+aliases:
+  - /pages/consolefonts/consolefontsdump/
+menu_name: archlinux-consolefonts
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 menu:
-  docs:
-    parent: consolefonts
+  archlinux-consolefonts:
+    parent: Archlinux Console Fonts Previews
 ---
 
 ```python
