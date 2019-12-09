@@ -18,11 +18,12 @@ menu_name: archlinux-consolefonts
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
+weight: 1
 menu:
+  docs:
   archlinux-consolefonts:
     name: Previews
     parent: Archlinux Console Fonts Previews
-  docs:
 ---
 
 ## Introduction

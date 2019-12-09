@@ -7,7 +7,6 @@ date: "2012-08-06"
 draft: false
 aliases:
   - /pages/consolefonts/consolefontsdump/
-menu_name: archlinux-consolefonts
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
