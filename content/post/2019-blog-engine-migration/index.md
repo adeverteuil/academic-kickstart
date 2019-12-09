@@ -42,6 +42,11 @@ I wrote my own basic theme based on the [SemanticUI](http://semantic-ui.com/) fr
 {{< figure src="Screenshot_2019-12-08 Blogue — Alexandre de Verteuil.png" title="The blog posts index. I had only two categories and they each had their little icon." >}}
 
 
+### What I liked
+
+{{< figure src="screenshot 2019-12-08 2229.png" caption="I wrote my own template files in such a way that the output source code looked super clean" >}}
+
+
 ### What I didn't like
 
 * The landing page contents
