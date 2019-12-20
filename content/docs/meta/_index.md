@@ -46,7 +46,8 @@ and syncs the `public/` directory to the jail over SSH with `rsync`.
 
 Large static files are hosted on a separate static HTTP server.
 It's just another FreeBSD jail with apache24 serving a filesystem directory.
-This is to avoid commiting large binary files to Git.
+This is to avoid commiting large binary files to Git,
+like videos or large archives I host for sharing.
 
 I commit blog post images optimized for web in my site's repository,
 because they're optimized and I can take advantage of Hugo Page Bundles.
