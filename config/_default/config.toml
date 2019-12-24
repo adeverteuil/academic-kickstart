@@ -58,9 +58,6 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
     startLevel = 2
     endLevel = 3
 
-[markup.goldmark.renderer]
-unsafe= true
-
 [imaging]
   resampleFilter = "lanczos"
   quality = 90
