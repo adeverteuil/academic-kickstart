@@ -39,6 +39,11 @@ projects: []
 J'écris quotidiennement dans un journal depuis 2 ans.
 Depuis 6 mois j'utilise plusieurs différents types de journaux dédiés à un processus différent.
 
+Dans cet article, je vais décrire ces journaux ainsi que les processus d'écriture.
+Je vais également mentionner les bénéfices et les inspirations.
+
+J'espère que cela vous inspirera à écrire tous les jours!
+
 Ce que j'avais avant est un cahier à touts usages.
 C'était un peu similaire au concept du bullet journal,
 une façon d'utiliser un seul journal pour gérer les tâches et les notes quotidiennes.
@@ -72,7 +77,7 @@ Inspiré par GTD.
 * Processus
     * Toujours sur moi.
     * À 30–60 secondes d'accès.
-* Petit porte-mine de poche
+    * Je le révise de temps à autre pour extraire et organiser les informations utiles.
 * Plus rapide à ouvrir qu'une application pour téléphone mobile.
 * Toujours fonctionnel, jamais de bogue ou de pile faible.
 * C'est de la matière première brute. Il faut raffiner et catégoriser le contenu dans d'autres systèmes.
