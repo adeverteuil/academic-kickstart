@@ -40,6 +40,14 @@ Je trouve ce format trop limité/limitant.
 * I like to do project management on the near side of the human-machine interface.
 
 
+## L'importance d'écrire un journal
+
+* Il n'y a pas de différence entre dire, écrire et réfléchir. Ce sont des actions qui dépendent l'une des autres.
+* Nous somme des réplicats de la structure la plus complexe de l'univers connu. Chaque personne est également un centre de l'univers. Ce que cela implique:
+    * Il faut placer beaucoup de papier et de crayons à notre disposition.
+    * La complexité de nos systèmes justifie 7 à 15 journaux différents.
+
+
 ## Progression
 
 On ne commence pas avec 7 journaux.
