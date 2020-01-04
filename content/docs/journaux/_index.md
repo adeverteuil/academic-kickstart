@@ -20,44 +20,45 @@ menu:
     weight: 2
   journaux:
     weight: 1
+weight: 1
 ---
 
 ## Introduction
 
-Un soir en septembre 2017 j'étais chez mon ami qui m'hébergeait après ma rupture avec mon ex.
-J'avais installé un coin avec mes affaires et je dormais sur le sofa.
-Je vivais quotidiennement des émotions fortes et des événements transformatifs dans les semaines qui ont précédé.
-Malgré ma dextérité et mon endurance sévèrement réduites par une fracture en guérison au poignet droit, j'ai écrit dans mon journal:
+Ce document est une collection de ce que j'apprends au sujet de l'écriture.
 
-> Ça devient intéressant
+J'écris dans un journal personnel quotidiennement depuis l'automne 2017.
+Je teste et développe des systèmes de productivité et d'organisation depuis 15 ans.
+J'ai essayé des systèmes numériques, analogiques et hybrides.
 
-…un euphémisme.
+J'écris cette documentation pour organiser mes pensées au sujet de la manière dont j'organise mes pensées
+et également pour propager l'inestimable valeur de documenter et organiser sa vie.
 
-Dans l'année qui suivit j'allais vivre la descente de mon groupe d'amis dans un cercle vicieux de toxicomanie et de chasse aux plaisirs immédiats qui firent place à des jeux de séduction et de mensonges.
-J'étais au bord de la révolte et j'allais faire des changements majeurs à mon réseau social (principalement en coupant des liens).
+L'ensemble de systèmes de journaux sur lequel je suis abouti est stable depuis 6 mois et semble cohérent sur de nombreux plans existentiels.
+Il y a des concepts que je crois vrais et utiles, généralement ce sont des idées empruntées de professeurs, communicateurs, artistes, psychologues, auteurs.
+Parfois ce sont mes inventions, ou j'ai une modification judicieuse de l'idée de quelqu'un d'autre.
+D'autres idées présentées sont toujours en phase de recherche ou d'essai.
 
-Cette ligne dans mon journal signifie que beaucoup trop de détails m'échappent et seront perdus pour toujours si je ne les écris pas.
-J'ai reconstitué une rétrospective des 30 jours qui ont précédé en parcourant mon calendrier et mes conversations SMS.
-Depuis cette décision intuitive, j'ai un récit qui raconte l'évènement le plus significatif de chaque journée de ma vie ou presque.
-Je peux retourner à n'importe quel jour, lire mon texte, et m'y retrouver en imagination comme si j'y étais réellement.
 
-Dans les mois qui suivent, je peux voir mon écriture changer de forme et s'améliorer alors que mon poignet guérit et retrouve sa mobilité.
-J'ai un récit intégral des relations toxiques que j'ai entretenues.
-J'ai l'état de mes espérances et mes émotions à travers de multiples transformations.
-J'ai une trace de ce qui s'est dit, ce que j'ai fait et avec qui.
+## Survol
 
-J'écris quotidiennement dans mon journal depuis 2 ans.
-Je sais maintenant qu'il ne faut pas attendre l'écroulement d'une appartenance sociale ou un changement de vie majeur pour écrire.
-L'utilité d'écrire devient claire avec quelques mois de pratique,
-et on devient plus efficace à voir et à noter les éléments qui serviront plus tard à reconstruire un narratif intéressant.
+J'ai 7 journaux principaux pour 7 écritures différentes.
 
-Au cours des deux dernières années, j'ai continué à rechercher et à raffiner mes techniques d'écriture.
-Depuis 6 mois j'utilise plusieurs types de journaux dédiés à un processus différent.
+1. **Carnet de capture**
+1. **Journal principal**
+1. **Journal d'histoires**
+1. **Journal de rêves**
+1. **Cahier d'association libre**
+1. **Cahier de notes**
+1. **Bloc GTD et gestion de projets**
+1. **Journaux de projets**
 
-Dans cette publication, je vais décrire ces journaux ainsi que les processus d'écriture.
-Je vais également mentionner les bénéfices, la méthodologie et mes sources inspirations.
+Je documente ensuite d'autres outils indispensables.
 
-J'espère que cela vous inspirera à écrire tous les jours!
+1. **Papier brouillon et tablettes**
+1. **Classeur**
+1. **Art**
+1. **Tenue de livres et comptabilité**
 
 
 ## L'importance d'écrire un journal
