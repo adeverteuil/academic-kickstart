@@ -19,6 +19,7 @@ menu:
   journaux:
     parent: Journaux
     weight: 2
+weight: 2
 ---
 
 Lorsqu'une idée surgit dans l'esprit, cela ne dure que 30 à 60 secondes.

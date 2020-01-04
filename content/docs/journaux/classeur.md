@@ -19,6 +19,7 @@ menu:
   journaux:
     parent: Journaux
     weight: 11
+weight: 11
 ---
 
 * filière rotative

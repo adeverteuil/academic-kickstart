@@ -19,6 +19,7 @@ menu:
   journaux:
     parent: Journaux
     weight: 10
+weight: 10
 ---
 
 {{< figure src="presse-papiers.jpg" >}}

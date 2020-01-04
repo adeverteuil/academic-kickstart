@@ -19,6 +19,7 @@ menu:
   journaux:
     parent: Journaux
     weight: 12
+weight: 12
 ---
 
 Ce sont d'autres mécanismes de pensée, avec chacun leur langage de capture et de raffinement et peuvent tous communiquer en multiples sens avec les autres plans de votre existence.

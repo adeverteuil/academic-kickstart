@@ -18,6 +18,7 @@ type: docs  # Do not modify.
 menu:
   journaux:
     weight: 13
+weight: 13
 ---
 
 * [Bullet journal](https://bulletjournal.com/)

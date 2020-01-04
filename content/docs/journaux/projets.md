@@ -19,6 +19,7 @@ menu:
   journaux:
     parent: Journaux
     weight: 9
+weight: 9
 ---
 
 * Un journal dédié pour mes rôles.

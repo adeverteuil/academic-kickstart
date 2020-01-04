@@ -19,6 +19,7 @@ menu:
   journaux:
     parent: Journaux
     weight: 8
+weight: 8
 ---
 
 {{< gallery album="photos" >}}
