@@ -26,7 +26,7 @@ menu:
 
 Un soir en septembre 2017 j'étais chez mon ami qui m'hébergeait après ma rupture avec mon ex.
 J'avais installé un coin avec mes affaires et je dormais sur le sofa.
-J'avais déjà vécu quotidiennement des émotions fortes et événements transformatifs dans les semaines qui ont précédé.
+Je vivais quotidiennement des émotions fortes et des événements transformatifs dans les semaines qui ont précédé.
 Malgré ma dextérité et mon endurance sévèrement réduites par une fracture en guérison au poignet droit, j'ai écrit dans mon journal:
 
 > Ça devient intéressant
@@ -68,6 +68,8 @@ J'espère que cela vous inspirera à écrire tous les jours!
     * La complexité de nos systèmes justifie 7 à 15 journaux différents.
 * En particulier, ça a été pour moi un mécanisme de détection efficace contre la manipulation car j'ai l'inventaire complet des mensonges et des patterns.
 * Mes récits me procurent le sentiment que chaque jour de ma vie est significatif et beau.
+* It's extremely sustainable. It feeds its own future improvements. It's how us, human beings, for as much as we are autonomous systems, do continuous improvement on ourselves.
+* [Jordan B. Peterson explique l'importance de savoir écrire et organiser ses pensées](https://youtu.be/nsZ8XqHPjI4?t=8289) [from 2:18:09 to 2:21:41]
 
 
 ## Progression
