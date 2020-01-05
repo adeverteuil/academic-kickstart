@@ -25,3 +25,4 @@ weight: 11
 * filière rotative
 * filière permanente
 * filière de référence A-Z
+* FreedomFiler™

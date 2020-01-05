@@ -22,6 +22,9 @@ menu:
 weight: 10
 ---
 
+* [Slaying the Dragon Within Us](https://youtu.be/REjUkEj1O_0), Jordan B. Peterson.
+* Jordan B. Peterson podcast episode 15: [How to Change the World — Properly](https://www.jordanbpeterson.com/podcast/episode-15/)
+
 {{< figure src="presse-papiers.jpg" >}}
 
 * Toujours prendre des notes lors d'un appel téléphonique.

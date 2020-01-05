@@ -22,12 +22,24 @@ menu:
 weight: 2
 ---
 
-Lorsqu'une idée surgit dans l'esprit, cela ne dure que 30 à 60 secondes.
+Les idées ont les caractéristiques suivantes:
+
+* Elles surgissent dans l'esprit aléatoirement, c'est à dire dans un contexte et à un moment où elles ne s'appliquent pas directement.
+* Elles ont une demi-vie de 30 à 60 secondes.
+* Une des règles de la créativité est qu'il faut générer beaucoup d'idées pour avoir quelques bonnes idées et une géniale.
+* Capturer une idée est un exercisse qui stimule souvent l'apparition d'idées additionelles.
+
 Il est donc important d'avoir un carnet de capture en tout temps sur soi.
 
 {{< gallery album="photos" >}}
 
 Ce porte-mines de poche est disponible chez [Nota Bene](http://www.nota-bene.ca/) et chez [Stylo.ca](https://www.stylo.ca/).
+
+Le carnet Moleskine
+([Amazon.ca](https://www.amazon.ca/dp/8883704894/ref=cm_sw_em_r_mt_dp_U_vtveEbVHRY1VN))
+vient en paquet de trois.
+Il peut survivre au-delà de 1 ans dans la poche arrière de ton jeans.
+De loin on dirait un passeport et c'est très cool.
 
 Le carnet de capture est le plus important.
 Inspiré par GTD.
@@ -38,10 +50,12 @@ Inspiré par GTD.
     * Je le révise de temps à autre pour extraire et organiser les informations utiles.
 * Plus rapide à ouvrir qu'une application pour téléphone mobile.
 * Toujours fonctionnel, jamais de bogue ou de pile faible.
-* C'est de la matière première brute. Il faut raffiner et catégoriser le contenu dans d'autres systèmes.
+* C'est de la matière première, de l'information à l'état brut, pas très bien articulé ni organisé. Il faut raffiner et catégoriser le contenu intéressant dans d'autres systèmes et d'autres conversations.
 * Ce qu'il contient:
     * Le nom d'une personne que je viens de rencontrer
-    * Endroit à retourner
+    * Endroit intéressant à retourner explorer plus tard
     * Idées
     * Tâche à faire
     * Codes à usage temporaire
+    * Les heures d'ouverture d'un commerce
+    * Des itinéraires pour les déplacements vers un nouvel endroit

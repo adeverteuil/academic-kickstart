@@ -22,6 +22,8 @@ menu:
 weight: 9
 ---
 
+Il y aura forcément des projets, activités, occupations, métiers, entreprises, voyages et passe-temps qui auront leur journal propre.
+
 * Un journal dédié pour mes rôles.
     * Club Toastmasters Montréal
         * Construction de discours
