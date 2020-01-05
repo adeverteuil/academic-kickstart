@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Papier brouillon et tablettes"
-linktitle: "Papier brouillon et tablettes"
+title: "Chasse aux dragons"
+linktitle: "Chasse aux dragons"
 summary:
 date: 2019-12-29T15:45:21-05:00
 lastmod: 2019-12-29T15:45:21-05:00
