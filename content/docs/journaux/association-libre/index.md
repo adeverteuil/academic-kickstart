@@ -90,6 +90,6 @@ J'écris au stylo à bille pour éliminer la tentation de regret ou de retour en
 L'association libre peut également servir à analyser les rêves, résoudre des problèmes, ou identifier précisément des émotions.
 
 Lis le récit de ton rêve, revis la séquence de sentiments, revois les personnages.
-Ensuite fais un exercisse de 10 minutes d'association libre, sans t'attacher au contenu onirique mais tout à fait librement, sans objectif.
+Ensuite fais un exercice de 10 minutes d'association libre, sans t'attacher au contenu onirique mais tout à fait librement, sans objectif.
 
-Le même exercisse peut aider au post-traitement d'une activité sociale intense (négativement ou positivement), ou un épisode de rêve éveillé.
+Le même exercice peut aider au post-traitement d'une activité sociale intense (négativement ou positivement), ou un épisode de rêve éveillé.

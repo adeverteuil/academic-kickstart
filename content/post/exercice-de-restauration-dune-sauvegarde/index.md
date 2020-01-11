@@ -52,7 +52,7 @@ La sagesse en informatique est de sauvegarder ses données de façon
 régulière, localement **et** hors site. Toute donnée qui n'est pas
 sauvegardée n'a aucune valeur. Toutefois, toute sauvegarde qui n'est
 pas vérifiée n'a pas davantage de valeur! En fin de semaine, j'ai
-procédé à un exercisse post-catastrophe. J'ai débranché mon disque
+procédé à un exercice post-catastrophe. J'ai débranché mon disque
 dur principal pour voir si je pouvais récupérer mon système à
 partir de mon disque de sauvegarde vers mon disque secondaire. J'ai
 dû surmonter quelques imprévus et j'ai appris de quelques erreurs
@@ -135,7 +135,7 @@ sont requis et le système est prêt à booter.
 
 ## En résumé
 
-Les prérequis absolus pour réussir l'exercisse sont&nbsp;:
+Les prérequis absolus pour réussir l'exercice sont&nbsp;:
 
 1. une sauvegarde de tout sauf `/proc`, `/sys` et `/dev` car ceux-ci sont générés automatiquement par le système d'exploitation
 2. un disque de démarrage de secours tel que *SystemRescueCD* ou celui de votre système d'exploitation
@@ -165,7 +165,7 @@ Les étapes suivies sont&nbsp;:
 
 ## Conclusion
 
-Suite à cet exercisse, je réalise que l'implémentation et
+Suite à cet exercice , je réalise que l'implémentation et
 l'entretien d'une routine de sauvegarde ne représente que la
 moitié du travail. Il est nécessaire de pratiquer la restauration
 de la sauvegarde régulièrement et avec différents scénarios de

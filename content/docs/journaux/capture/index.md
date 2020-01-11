@@ -31,7 +31,7 @@ Les idées ont les caractéristiques suivantes:
 * Elles surgissent dans l'esprit aléatoirement, c'est à dire dans un contexte et à un moment où elles ne s'appliquent pas directement.
 * Elles ont une demi-vie de 30 à 60 secondes.
 * Une des règles de la créativité est qu'il faut générer beaucoup d'idées pour avoir quelques bonnes idées et une géniale.
-* Capturer une idée est un exercisse qui stimule souvent l'apparition d'idées additionelles.
+* Capturer une idée est un exercice qui stimule souvent l'apparition d'idées additionelles.
 
 Il est donc important d'avoir un carnet de capture en tout temps sur soi.
 

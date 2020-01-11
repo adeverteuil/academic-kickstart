@@ -100,7 +100,7 @@ On ne commence pas avec 15 journaux. Il y a une progression.
 1. Trouve un cahier et un crayon qui ont du potentiel.
 1. Sur la première page, écris ton nom.
 1. Laisse 1 ou 2 pages libres pour écrire un index plus tard.
-1. Commence avec un exercisse libre, au choix.
+1. Commence avec un exercice libre, au choix.
       * Écris ce que tu as fait aujourd'hui, où tu étais, avec qui, de quoi vous avez parlé.
       * Planifie ta journée, quels sont les choses que tu aura faites pour que tu sois satisfait de toi-même?
       * Dessine un croquis, fais un griboullis.
