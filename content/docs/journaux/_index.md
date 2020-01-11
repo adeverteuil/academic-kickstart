@@ -46,10 +46,14 @@ J'ai également investi du temps à pratiquer, lire, étudier et rechercher:
 J'écris cette documentation pour organiser mes pensées au sujet de la manière dont j'organise mes pensées
 et également pour propager l'inestimable valeur de documenter et organiser sa vie.
 
-L'ensemble de systèmes de journaux sur lequel je suis abouti est stable depuis 6 mois et semble cohérent sur de nombreux plans existentiels.
+L'ensemble de systèmes de journaux sur lequel je suis abouti est stable depuis 6 mois et semble cohérent sur de nombreux plans pragmatiques et existentiels.
 Il y a des concepts que je crois vrais et bons, généralement ce sont des idées empruntées de professeurs, communicateurs, artistes, psychologues, auteurs.
 Parfois ce sont mes inventions, ou j'ai une modification judicieuse de l'idée de quelqu'un d'autre.
 D'autres sont toujours en phase de recherche ou d'essai.
+
+Chacun de ces journeaux est documenté avec l'origine, les bénéfices, la méthodologie et le matériel.
+Je vous propose d'utiliser ces pages comme une source d'idées et d'inspiration et non comme un livre de règles.
+Expérimentez, développez vos propres idées, recherchez d'autres sources sur internet et partagez vos idées!
 
 
 ## Survol
@@ -86,13 +90,12 @@ Je documente ensuite d'autres outils indispensables selon le contexte, la profes
 * Mes récits me procurent le sentiment que chaque jour de ma vie est significatif et beau.
 * It's extremely sustainable. It feeds its own future improvements. It's how us, human beings, for as much as we are autonomous systems, do continuous improvement on ourselves.
 * [Jordan B. Peterson explique l'importance de savoir écrire et organiser ses pensées](https://youtu.be/nsZ8XqHPjI4?t=8289) [from 2:18:09 to 2:21:41]
+* Cartographie sociale et identitaire. À mettre en relation avec la méta-histoire, la mythologie, la psychologie.
 
-
-## Progression
 
 ## Le journal avec lequel tu vas commencer
 
-On ne commence pas avec 15 journaux.
+On ne commence pas avec 15 journaux. Il y a une progression.
 
 1. Trouve un cahier et un crayon qui ont du potentiel.
 1. Sur la première page, écris ton nom.

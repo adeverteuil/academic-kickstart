@@ -22,16 +22,15 @@ menu:
 weight: 3
 ---
 
-* Un système pour gérer le travail.
-* Permet de distinguer et organiser le travail en trois types:
-    1. Faire du travail intéruptions
-    2. Planifier le travail
-    3. Faire le travail planifié
-* Un des systèmes les plus stables et fonctionnels de ma collection.
-* Inspiré directement de [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/), une méthodologie dévelopée et popularisée par David Allen.
-* Vous pouvez considérer les règles comme étant très dures et permanente.
-* Il y a une délimitation rigide entre les différents types de choses qui sont gérées avec GTD.
-* Il y a 7 types de choses gérées dans GTD.
+## Introduction
+
+Comme nous l'avons vu dans la section sur le [carnet de capture]({{< relref "capture/index.md" >}}),
+l'anxiété est réduit si on sort nos obligations de notre tête et qu'on les organise dans un système fiable et hermétique.
+Mon système de gestion de tâches et de projets est une application presque exacte des techniques enseignées par
+David Allan dans *Getting Things Done*.
+
+
+## Matériel
 
 {{< gallery album="photos" >}}
 
@@ -43,3 +42,39 @@ weight: 3
   * **rouge**: idées
 * Chemises de plastique transparent pour le matériel de projets (notes, planification, brainstoriming).
 * Écriture au graphite, tout est en état de flux.
+
+
+## Révision rapide du système GTD
+
+Voici un rappel du processus de traitement des intrants (*stuff*, les notes et les messages qui arrivent dans la boîte de réception) avec GTD.
+
+{{< figure src="gtd-workflow-coloured-types.jpg" caption="© David Allen co." >}}
+
+Il est important de noter qu'il y a 7 types de choses gérées avec GTD, et qu'il y a une frontière dure délimitant ces catégories.
+
+1. Projets
+2. Matériel de projets
+3. En attente
+4. Calendrier
+5. Actions
+6. Référence
+7. Idées
+
+Tout item que vous ne pouvez pas placer définitivement dans une catégorie ci-haut appartient à:
+
+* *Stuff*, de l'information non traitée et non-actionable
+* *Trash*
+
+
+## En résumé
+
+* Un système pour gérer le travail.
+* Permet de distinguer et organiser le travail en trois types:
+    1. Faire du travail intéruptions
+    2. Planifier le travail
+    3. Faire le travail planifié
+* Un des systèmes les plus stables et fonctionnels de ma collection.
+* Inspiré directement de [Getting Things Done](https://gettingthingsdone.com/what-is-gtd/), une méthodologie dévelopée et popularisée par David Allen.
+* Vous pouvez considérer les règles comme étant très dures et permanente.
+* Il y a une délimitation rigide entre les différents types de choses qui sont gérées avec GTD.
+* Il y a 7 types de choses gérées dans GTD.

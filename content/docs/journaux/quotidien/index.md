@@ -22,7 +22,48 @@ menu:
 weight: 4
 ---
 
+## Introduction
+
+Ce journal est une archive des choses que j'ai faites, où j'étais et avec qui.
+Tout ce que je veux enregistrer factuellement.
+En particulier, toutes mes intéractions sociales sont notées et cela constitue la majorité du contenu.
+
+Le soir, avant d'aller dormir, je passe en revue ma journée et toutes les personnes avec qui j'ai eu une intéraction.
+Je note le nom de la personne, son histoire, ce qui s'est dit, ce qu'on a fait, comment on s'est senti.
+Je note également avec qui cette personne est en relation, quel est son contexte, ses préoccupations, ses désirs.
+
+Je note également ce que j'ai fait de mon temps libre.
+À quelle heure je me suis levé?
+Qu'est-ce que j'ai fait le matin avant de travailler?
+Qu'est-ce que j'ai fait de ma soirée?
+Qu'est-ce que j'ai accompli?
+
+Un de mes objectifs est d'étendre la portée de mon réseau social et de fortifier les relations mutuellement bénéfiques.
+Je crois que ce journal m'aide grandement en ce sens.
+Je mémorise mieux les noms, je comprends mieux mon environnement social et je réalise que j'ai une influence sur beaucoup de gens.
+Je suis beaucoup plus présent d'esprit et je pratique l'écoute active lorsque je discute avec quelqu'un.
+Je suis plus motivé à initier une conversation avec les étrangers.
+Je m'intègre plus rapidement dans un nouveau groupe.
+
+Je suis également protégé contre les manipulations, les mensonges et les déformations de faits.
+Cela inclut également les mensonges et les omissions que je me fais à moi-même
+parce que j'observe un peu plus objectivement mes habitudes.
+
+Il s'agit également d'une ressource inestimable de mémoires lorsque je voyage.
+
+
+## Matériel
+
 {{< gallery album="photos" >}}
+
+J'utilise un journal Moleskine quadrillé.
+C'est un format idéal, standard même si vous avez plusieurs journaux Moleskine.  
+[Moleskine Square Notebook](https://www.amazon.ca/dp/8883701135/ref=cm_sw_em_r_mt_dp_U_-wKgEbV17W9XP) sur Amazon.ca.
+
+J'écris avec un stylo à bille pour une lisibilité permanente.
+
+
+## Méthodologie
 
 * À tous les jours, sans exception.
 * Une entête pour chaque jour et un mot-clé ou un nom propre pour chaque entrée.
@@ -36,5 +77,10 @@ weight: 4
     * Comment on s'est senti?
 * Expériences.
 * Observations.
+* Habitudes.
 * Trajet de voyage.
-* Stylo à bille pour une lisibilité permanente.
+
+
+## Réseautage
+
+[Art of Manliness Podcast #92: Networking Without “Networking” With John Corcoran](https://www.artofmanliness.com/articles/art-of-manliness-podcast-92-networking-without-networking-with-john-corcoran/)

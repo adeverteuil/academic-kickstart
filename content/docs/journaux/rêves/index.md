@@ -22,12 +22,36 @@ menu:
 weight: 8
 ---
 
+## Introduction
+
+Le sommeil et le rêve font partie de notre incarnation dans cette vie.
+Nous passons un tiers de chaque jour dans un état de conscience qui s'apparente à un autre monde, un autre corps.
+
+Mais ces deux mondes se parlent! Les rêves ont un langage.
+C'est une erreur de les ignorer, de les laisser être oubliés.
+Ils contiennent beaucoup d'information, peut-être même *toute* l'information.
+Il faut seulement faire attention à la manière dont on utilise.
+En effet, les rêves parlent le langage de l'association libre.
+C'est une matière première qui doit être capturée et analysée.
+
+J'ai habituellement une très faible mémoire de mes rêves.
+L'activité d'écrire ce dont je me rappelle tous les matins développe ma capacité à me remémorer mes rêves en détails.
+Après quelques jours, je commence à pouvoir écrire un petit narratif des derniers moments avant mon réveil,
+puis plus tard je peux me rappeler d'un rêve au complet, même de 2 ou 3 rêves par nuit.
+
+
+## Matériel
+
 {{< gallery album="photos" >}}
 
-* C'est un autre type de journal de capture.
-* C'est de la matière première brute.
-  On l'utilise comme point de départ pour un exercisse d'assotiation libre.
-* Contenu onirique
-* Mots-clés
-* Narratif
-* Matière de base pour un exercisse d'association libre
+Pour celui-ci, j'utilise le classique notebook Moleskine en bleu marine.  
+[Moleskine Classic Notebook Large Ruled](https://www.amazon.ca/dp/B015NG44Z2/ref=cm_sw_em_r_mt_dp_U_ioLgEb7XXPN35) sur Amazon.ca.
+
+
+## Méthodologie
+
+* Je le laisse ouvert sur ma table de chevet avec un stylo dedans.
+* J'ai une petite lampe LED à faible intensité pour pouvoir écrire à moitié encore endormi.
+* Je note le contenu onirique. Au moins quelques mots-clés.
+  Si je peux, je note le narratif.
+* On l'utilise ensuite comme point de départ pour un exercice d'assotiation libre.
