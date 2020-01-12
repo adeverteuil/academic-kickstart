@@ -150,3 +150,10 @@ Je trouve ce format trop limité/limitant.
 Joins-toi à un club qui te fait parler devant un public. Parle. Écoute. Apprends à écouter quand tu ne parles pas, et apprends à *écouter quand tu parles*.
 
 Je te recommande de visiter les clubs Toastmasters de ta région.
+
+Jordan B. Peterson fait une intéressante parenthèse sur la parole dans
+[2017 Maps of Meaning 11: The Flood and the Tower](https://youtu.be/T4fjSrVCDvA?t=2216) (36:56 à 38:59).
+
+Ici, il parle de l'écoute active:
+[2017 Personality 10: Humanism & Phenomenology: Carl Rogers](https://youtu.be/68tFnjkIZ1Q?t=2408)
+(40:09 à 44:06).

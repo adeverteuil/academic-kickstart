@@ -39,6 +39,11 @@ L'activité d'écrire ce dont je me rappelle tous les matins développe ma capac
 Après quelques jours, je commence à pouvoir écrire un petit narratif des derniers moments avant mon réveil,
 puis plus tard je peux me rappeler d'un rêve au complet, même de 2 ou 3 rêves par nuit.
 
+Dans son cours
+[Maps of meaning 08: Neuropsychology of symbolic representation](https://youtu.be/Nb5cBkbQpGY?t=4153)
+(1:09:13 à 1:11:40),
+Jordan B. Peterson fait une parenthèse intéressante sur les rêves.
+
 
 ## Matériel
 
