@@ -45,6 +45,11 @@ Je suis beaucoup plus présent d'esprit et je pratique l'écoute active lorsque 
 Je suis plus motivé à initier une conversation avec les étrangers.
 Je m'intègre plus rapidement dans un nouveau groupe.
 
+Un autre objectif en 2020 est d'améliorer mon sommeil et réduire ma consommation de cannabis, alcool et de café.
+Tous les matins avant de travailler, j'écris le mot LEVER et je décris mon matin:
+l'heure du lever, mes activités, mon attitude/émotion.
+Le soir, j'écris SUBSTANCES et je note combien de cafés, de joints et de verres d'alcool j'ai consommé.
+
 Je suis également protégé contre les manipulations, les mensonges et les déformations de faits.
 Cela inclut également les mensonges et les omissions que je me fais à moi-même
 parce que j'observe un peu plus objectivement mes habitudes.
@@ -78,6 +83,7 @@ J'écris avec un stylo à bille pour une lisibilité permanente.
 * Expériences.
 * Observations.
 * Habitudes.
+* Suivi du progrès et atteinte d'objectifs personnels.
 * Trajet de voyage.
 
 
