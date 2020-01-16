@@ -95,9 +95,9 @@ Je documente ensuite d'autres outils indispensables selon le contexte, la profes
 
 ## Le journal avec lequel tu vas commencer
 
-On ne commence pas avec 15 journaux. Il y a une progression.
+On ne commence pas avec 15 journaux. Il y a une progression!
 
-1. Trouve un cahier et un crayon qui ont du potentiel.
+1. Trouve un cahier et un crayon qui ont du potentiel. [0.<sup>00</sup>$ – 4.<sup>00</sup>$]
 1. Sur la première page, écris ton nom.
 1. Laisse 1 ou 2 pages libres pour écrire un index plus tard.
 1. Commence avec un exercice libre, au choix.
@@ -105,7 +105,7 @@ On ne commence pas avec 15 journaux. Il y a une progression.
       * Planifie ta journée, quels sont les choses que tu aura faites pour que tu sois satisfait de toi-même?
       * Dessine un croquis, fais un griboullis.
 1. Continue pendant quelques jours.
-1. Change de crayon.
+1. Change de crayon. [1.<sup>00</sup>$ – 10.<sup>00</sup>$]
 1. Trouve des idées sur internet.
       * [Bullet Journal](https://bulletjournal.com/)
       * Google Images: 
@@ -118,31 +118,37 @@ On ne commence pas avec 15 journaux. Il y a une progression.
         [diary](https://www.pinterest.ca/search/pins/?q=diary&rs=typed&term_meta[]=diary%7Ctyped),
         [note taking](https://www.pinterest.ca/search/pins/?q=note%20taking&rs=typed&term_meta[]=note%7Ctyped&term_meta[]=taking%7Ctyped)
         [doodling](https://www.pinterest.ca/search/pins/?q=doodling&rs=typed&term_meta[]=doodling%7Ctyped)
-1. Change encore de crayon pour un meilleur.
+1. Change encore de crayon pour un meilleur. [10.<sup>00</sup>$ – 25.<sup>00</sup>$]
 1. Ajoute de plus en plus de types d'entrées. Utilise ton journal pour des notes, des horaires, des listes de tâches, des processus créatifs, et plus, et plus.
 1. Quelques semaines, quelques mois passent.
 1. Identifie un ou plusieurs de tes processus d'écriture distincts principaux.
-1. Migre tes processus un à un vers un système de plus en plus spécialisé: format idéal, fonction d'indexation, type de lignes adapté, qualité du papier.
+1. Migre tes processus un à un vers un système de plus en plus spécialisé: format idéal, fonction d'indexation, type de lignes adapté, qualité du papier. [50.<sup>00</sup>$ – 100.<sup>00</sup>$]
 1. Un temps indéterminé entre 0 et 120 années passe.
 1. Meurt certes, mais vis avec beaucoup beaucoup de sens, d'affirmation et d'authenticité entre-temps.
 1. Ce sera le problème de ta succession de décider si tu es devenu assez célèbre pour garder ta production.
 
-Selon mon estimation, la quantité de journaux que je vais produire dans les prochains 50 ans est très, très gérable.
+Selon mon estimation, la quantité de journaux que je vais produire dans les prochaines 50 années est gérable.
 Une ou deux tablettes de bibliothèque maximum.
-J'écris seulement 15 à 30 minutes par jour.
+J'écris seulement 15 à 60 minutes par jour.
 
-On commence avec 1 journal qui fait tout, et on s'inspire systèmes simples comme [Bullet Journal](https://bulletjournal.com/).
-Voir aussi Pinterest pour de l'inspiration très visuelle pour organiser un journal.
-Ça permet de commencer avec un budget limité pendant une phase exploratoire.
-Les différentes catégories d'information que vous générez vont émerger et se définir en systèmes indépendants que vous pourrez migrer sur un hardware dédié et plus spécialisé.
-C'est la raison pour laquelle mes différents journaux ont une forme différente, et c'est très recherché et raffiné pour le système d'information et les processus qu'ils supportent.
 
-Ce que j'avais avant est un cahier à touts usages.
-C'était un peu similaire au concept du bullet journal,
-une façon d'utiliser un seul journal pour gérer les tâches et les notes quotidiennes.
-Je trouve ce format trop limité/limitant.
+## Différenciation des processus d'écriture et spécialisation du matériel
 
-* I like to do project management on the near side of the human-machine interface.
+Lorsque j'ai commencé à écrire quotidiennement, je n'avais qu'un journal général.
+J'approchais la fin de mon journal et il était temps de planifier l'achat d'un remplacement.
+Il était rempli de calendriers, listes, notes et idées.
+J'avais expérimenté plusieurs techniques (comme [ce calendrier]({{< ref "/post/le-cahier-moleskine-31-lignes" >}})) et rituels.
+
+À ce stade, j'ai identifié les processus les plus importants pour moi et j'ai commencé à imaginer des journaux plus spécialisés.
+D'abord dans mon carnet de capture:
+
+{{< figure src="différenciation 1.jpg" >}}
+
+…puis j'ai imaginé et planifié en plus de détails dans mon nouveau cahier de notes:
+
+{{< figure src="différenciation 2.jpg" >}}
+
+Et finalement, j'ai créé cette documentation.
 
 
 ## D'autres choses que tu devrais aussi faire qui ont autant d'importance que ton journal

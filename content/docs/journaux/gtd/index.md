@@ -78,3 +78,9 @@ Tout item que vous ne pouvez pas placer définitivement dans une catégorie ci-h
 * Vous pouvez considérer les règles comme étant très dures et permanente.
 * Il y a une délimitation rigide entre les différents types de choses qui sont gérées avec GTD.
 * Il y a 7 types de choses gérées dans GTD.
+
+
+## Systèmes numériques
+
+* I like to do project management on the near side of the human-machine interface.
+* [Taskwarrior](https://taskwarrior.org/)
