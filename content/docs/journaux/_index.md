@@ -5,7 +5,7 @@ title: "Journaux"
 linktitle: "Journaux"
 summary:
 date: 2019-12-29T15:45:21-05:00
-lastmod: 2019-12-29T15:45:21-05:00
+lastmod: 2020-01-19
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -38,8 +38,7 @@ J'ai également investi du temps à pratiquer, lire, étudier et rechercher:
 * l'art oratoire,
 * la documentation d'entreprise,
 * la psychologie,
-* la peinture,
-* la danse,
+* les arts visuels.
 
 …et j'ai trouvé des ponts surprenants à travers tout ça.
 
@@ -58,7 +57,7 @@ Expérimentez, développez vos propres idées, recherchez d'autres sources sur i
 
 ## Survol
 
-J'ai 7 journaux principaux pour 7 écritures différentes.
+J'ai 8 journaux principaux pour 8 écritures différentes.
 Ils forment un tout cohérent, le noyau de mon "cerveau externe".
 
 1. **Carnet de capture**
@@ -70,7 +69,7 @@ Ils forment un tout cohérent, le noyau de mon "cerveau externe".
 1. **Bloc GTD et gestion de projets**
 1. **Journaux de projets**
 
-Je documente ensuite d'autres outils indispensables selon le contexte, la profession, le mode de vie.
+Je documente ensuite d'autres outils indispensables selon le contexte, la profession, et la personalité.
 
 1. **Papier brouillon et tablettes**
 1. **Classeur**
@@ -97,7 +96,8 @@ Je documente ensuite d'autres outils indispensables selon le contexte, la profes
 
 On ne commence pas avec 15 journaux. Il y a une progression!
 
-1. Trouve un cahier et un crayon qui ont du potentiel. [0.<sup>00</sup>$ – 4.<sup>00</sup>$]
+1. Trouve un cahier et un crayon qui ont du potentiel.  
+   [0.<sup>00</sup>$ – 4.<sup>00</sup>$]
 1. Sur la première page, écris ton nom.
 1. Laisse 1 ou 2 pages libres pour écrire un index plus tard.
 1. Commence avec un exercice libre, au choix.
@@ -118,11 +118,13 @@ On ne commence pas avec 15 journaux. Il y a une progression!
         [diary](https://www.pinterest.ca/search/pins/?q=diary&rs=typed&term_meta[]=diary%7Ctyped),
         [note taking](https://www.pinterest.ca/search/pins/?q=note%20taking&rs=typed&term_meta[]=note%7Ctyped&term_meta[]=taking%7Ctyped)
         [doodling](https://www.pinterest.ca/search/pins/?q=doodling&rs=typed&term_meta[]=doodling%7Ctyped)
-1. Change encore de crayon pour un meilleur. [10.<sup>00</sup>$ – 25.<sup>00</sup>$]
+1. Change encore de crayon pour un meilleur.  
+   [10.<sup>00</sup>$ – 25.<sup>00</sup>$]
 1. Ajoute de plus en plus de types d'entrées. Utilise ton journal pour des notes, des horaires, des listes de tâches, des processus créatifs, et plus, et plus.
 1. Quelques semaines, quelques mois passent.
 1. Identifie un ou plusieurs de tes processus d'écriture distincts principaux.
-1. Migre tes processus un à un vers un système de plus en plus spécialisé: format idéal, fonction d'indexation, type de lignes adapté, qualité du papier. [50.<sup>00</sup>$ – 100.<sup>00</sup>$]
+1. Migre tes processus un à un vers un système de plus en plus spécialisé: format idéal, fonction d'indexation, type de lignes adapté, qualité du papier.  
+   [50.<sup>00</sup>$ – 100.<sup>00</sup>$]
 1. Un temps indéterminé entre 0 et 120 années passe.
 1. Meurt certes, mais vis avec beaucoup beaucoup de sens, d'affirmation et d'authenticité entre-temps.
 1. Ce sera le problème de ta succession de décider si tu es devenu assez célèbre pour garder ta production.
@@ -148,12 +150,14 @@ D'abord dans mon carnet de capture:
 
 {{< figure src="différenciation 2.jpg" >}}
 
-Et finalement, j'ai créé cette documentation.
+Et finalement, après environ 6 mois d'historique j'ai créé cette documentation.
 
 
 ## D'autres choses que tu devrais aussi faire qui ont autant d'importance que ton journal
 
-Joins-toi à un club qui te fait parler devant un public. Parle. Écoute. Apprends à écouter quand tu ne parles pas, et apprends à *écouter quand tu parles*.
+Joins-toi à un club qui te fait parler devant un public.
+Places toi dans des situations de responsabilité, de coopération, de communication ou de mentorat, c'est-à-dire où tu es amené à parler et écouter.
+Apprends à écouter quand tu ne parles pas, et apprends à *écouter quand tu parles*.
 
 Je te recommande de visiter les clubs Toastmasters de ta région.
 

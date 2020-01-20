@@ -5,7 +5,7 @@ title: "Association libre"
 linktitle: "Association libre"
 summary:
 date: 2019-12-29T15:45:21-05:00
-lastmod: 2019-12-29T15:45:21-05:00
+lastmod: 2020-01-19
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -36,10 +36,9 @@ J'en retire principalement deux choses utiles:
 
 1. Les associations, selon les psychoanalystes, ne se font pas au hasard.
    La co-émergence d'idées d'apparence indépendantes méritent de faire l'objet d'une analyse.
-2. Cela fait très souvent émerger une idée nouvelle, une histoire oubliée, ou une réalisation importante.
+2. L'exercice fait souvent émerger une idée nouvelle, une histoire oubliée, ou une réalisation importante.
 
-Il est tout à fait naturel d'utiliser cette technique en consultant avec un psycho-analyste.
-J'y note parfois les *devoirs* que mon psychothérapeute me donne à faire d'ici la prochaine session.
+J'y note également des pensées brouillon, en cours d'articulation.
 
 
 ## Matériel
@@ -59,8 +58,8 @@ J'écris au stylo à bille pour éliminer la tentation de regret ou de retour en
 
 * 1 fois par jour, ou au moins 1 fois par semaine.
 * Activer un minuteur de 10 minutes puis écrire *sans s'arrêter* jusqu'à ce que le temps soit écoulé.
-* Sans jugement ni attachement, il ne faut pas que le stylo ne cesse d'écrire.
-* J'y note également des pensées brouillon, en cours d'articulation.
+* Écrire sans jugement ni attachement, il ne faut pas que le stylo ne cesse d'écrire.
+* C'est une sorte de méditation. Rêver éveillé, mais avec un processus conscient qui rapporte ce qu'il constate sur le papier, sans s'y identifier ou s'y attacher émotionnellement.
 * Matthew Dicks en parle dans son livre *Storyworthy*.
   Il appelle ça "*dreaming at the end of your pen*" ou "*crash and burn*" (parce que lorsqu'une nouvelle idée émerge, la précédente est immédiatement abandonnée).
   Il a 3 règles:

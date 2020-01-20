@@ -5,7 +5,7 @@ title: "Journal d'histoires"
 linktitle: "Journal d'histoires"
 summary:
 date: 2019-12-29T15:45:21-05:00
-lastmod: 2019-12-29T15:45:21-05:00
+lastmod: 2020-01-19
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -26,21 +26,23 @@ weight: 7
 
 Beaucoup de gens expliquent les principes décrits ci-dessous beaucoup mieux que moi et avec beaucoup plus d'impact.
 Je commence tout juste à comprendre et à en apprécier l'importance.
-J'admire beaucoup les gens qui peuvent raconter une histoire, et c'est de plus en plus rare.
+J'admire beaucoup les gens qui peuvent raconter une histoire.
+C'est une compétence qui devient rare, mais qui se développe avec la pratique!
 
 
 ## Philosophie de l'identité
 
 * Nous sommes des êtres limités.
   Si nous étions illimités, nous serions tout et partout au même moment.
-  Donc nous sommes des êtres limités.
+  Donc par déduction nous sommes des êtres limités.
 * Cela veut dire que nous avons un narratif, car il y a un début et une fin.
-* Cela veut dire que ce qui constitue notre identité est exactement notre histoire, la séquence de toutes les choses que nous avons vécues et qui font ce que nous devenons.
-* Plus on connaîs et on s'approprie nos histoires, plus on maîtrise et construit notre identité (Peterson, J. B., Rule 10, 12 Rules for Life).
+* Cela veut dire que ce qui constitue notre identité est exactement notre histoire, la séquence de toutes les choses que nous avons vécues et qui font ce que nous sommes.
+* Plus on connaît et on s'approprie nos histoires, plus on maîtrise notre identité
+  (Rule 10—Be precise in your speech, PETERSON, J. B., *12 Rules for Life*).
 * La raison pour laquelle nous humains communiquons est pour raconter une histoire,
   c'est à dire amener la personne qui nous écoute à travers une transformation.
 * Une histoire est un moment de transformation, il y a une identité avant, et une identité différente, née des cendres de la première, après.
-* C'est habituellement un moment de beauté, d'émotion, de révélation, et ça ne dure que quelques instants, 5 secondes souvent.
+* C'est habituellement un moment de beauté, d'émotion, de révélation. Ça ne dure que quelques instants, 5 secondes souvent.
 
 
 ## Matériel
@@ -60,5 +62,6 @@ Le classique notebook Molesikne.
 * Je note également plus qu'une histoire si j'en ai.
 * Je note également des histoires du passé et dont je me rappelle à l'instant.
 * Inspiré par Matthew Dicks, [Homework for Life](http://www.matthewdicks.com/matthewdicksblog/2015/12/13/tedx-berkshires-homework-for-life).
-* Souvent un contenu similaire au journal quotidien, mais celui-ci est focussé sur un moment de transformation personnelle, le noyau d'un éventuel discours narratif.
+* Souvent un contenu similaire au [journal quotidien]({{< relref "quotidien/" >}}),
+  mais celui-ci est focussé sur les moments de transformation personnelle, noyaux d'un éventuel discours narratif.
 * Je note également les moments humoristiques parce que je trouve que ça manque dans ma vie et dans ma parole.

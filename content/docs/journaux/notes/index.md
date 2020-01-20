@@ -5,7 +5,7 @@ title: "Notes"
 linktitle: "Notes"
 summary:
 date: 2019-12-29T15:45:21-05:00
-lastmod: 2019-12-29T15:45:21-05:00
+lastmod: 2020-01-19
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -24,8 +24,8 @@ weight: 6
 
 ## Introduction
 
-Depuis qu'on a quitté l'école et intégré la vie d'un contribuable,
-on a abandonné l'habitude de prendre des notes de cours dans un cahier.
+Depuis qu'on a quitté l'école et intégré la vie de contribuable,
+on a tendance à abandonner l'habitude de prendre des notes de cours dans un cahier.
 
 Ceci est mon cahier de notes pour l'*École de la vie*.
 Je prends des notes lorsque je lis un livre de non-fiction,
@@ -33,11 +33,12 @@ lorsque je suis un cours en ligne, lorsque j'écoute une présentation sur YouTu
 lorsqu'un ami m'enseigne quelque chose,
 ou lorsque je fais une recherche sur un sujet en particulier.
 
-Cela me permet de retrouver les références pour les choses que je considère intéressantes.
-Ça sert également à augmenter ma rétention d'information.
-Je m'y réfère pour me rappeler des points clés et la séquence des processus importants.
+Je note souvent la structure du message et les points clés, ainsi que les références vers les sources.
+Ce cahier constitue un index de connaissance acquises et facilite grandement l'accès aux détails si je dois m'y référer dans le futur.
 
-Je construit également des petites collections de connaissances, des listes.
+Ça sert également à augmenter ma rétention d'information car l'écriture renforce l'apprentissage.
+
+Je construit également des petites collections de connaissances, des listes, des références rapides.
 
 
 ## Matériel
@@ -45,8 +46,8 @@ Je construit également des petites collections de connaissances, des listes.
 {{< gallery album="photos" >}}
 
 Comme pour le cahier d'[association libre]({{< relref "association-libre" >}}),
-j'utilise le grand cahier ligné Moleskine pour avoir assez d'espace pour dessiner des diagrammes
-et écrire des plans de cours.
+j'utilise le grand cahier ligné Moleskine pour avoir assez d'espace pour dessiner des diagrammes,
+écrire des plans de cours et des listes indentées à plusieurs niveaux.  
 [Moleskine Cahier Journal Set of 3 Large Ruled](https://www.amazon.ca/dp/8883704983/ref=cm_sw_em_r_mt_dp_U_YDKgEbV8SVDAK) sur Amazon.ca.
 
 

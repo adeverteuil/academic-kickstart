@@ -5,7 +5,7 @@ title: "Carnet de capture"
 linktitle: "Carnet de capture"
 summary:
 date: 2019-12-29T15:45:21-05:00
-lastmod: 2019-12-29T15:45:21-05:00
+lastmod: 2020-01-19
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -33,7 +33,7 @@ Les idées ont les caractéristiques suivantes:
 * Une des règles de la créativité est qu'il faut générer beaucoup d'idées pour avoir quelques bonnes idées et une géniale.
 * Capturer une idée est un exercice qui stimule souvent l'apparition d'idées additionelles.
 
-Il est donc important d'avoir un carnet de capture en tout temps sur soi.
+Il est donc important d'avoir un outil de capture en tout temps sur soi.
 
 
 ## Matériel
@@ -46,10 +46,8 @@ Le carnet Moleskine
 ([Amazon.ca](https://www.amazon.ca/dp/8883704894/ref=cm_sw_em_r_mt_dp_U_vtveEbVHRY1VN))
 vient en paquet de trois.
 Il peut survivre au-delà de 1 ans dans la poche arrière de ton jeans.
-De loin on dirait un passeport et c'est très cool.
 
-J'ai également des bloc-notes à portée de main à plusieurs endroits dans ma maison,
-y compris sur ma table de chevet, dans la salle de bain, la cuisine et le studio.
+J'ai également des bloc-notes stratégiquement dispersés dans mon studio.
 
 
 ## Bénéfices
@@ -66,7 +64,8 @@ Lorsqu'on failli à remplir une promesse faite, même les promesses faites à so
 on s'identifie un peu plus à la négligence et à l'échec,
 on arrive à penser que cela fait partie de la manière que nous sommes tout simplement.
 
-Or la solution est de capturer **toutes** les promesses faites, les idées, les engagements, les tâches et les notes.
+Or la première partie de la solution est de capturer **toutes** les promesses faites, les idées, les engagements, les tâches et les notes.
+(La deuxième partie est d'organiser, planifier et mettre en action. Voir le [bloc gtd]({{< relref "gtd/" >}}) à ce sujet.)
 
 Les bénéfices de bonnes habitudes de collecte sont nombreuses.  
 La première étant que toutes les choses qui occuperaient l'esprit et apporteraient de l'anxiété
@@ -74,10 +73,6 @@ par leur poids subconscient sont fixés sur papier,
 puis transférés dans un système fiable et hermétique
 qui permet de concrétiser en action toutes les choses qui "devraient être faites".
 Ceci augmente notre fiabilité et notre sens d'accomplissement de manière continue et systématique.
-
-Le carnet de capture est donc l'un de mes outils les plus importants, mais bien sûr il n'agit pas seul.
-J'écris davantage au sujet de Getting Things Done dans la section
-[Bloc GTD]({{< relref "gtd/index.md" >}}).
 
 
 ## Processus
@@ -100,7 +95,7 @@ J'écris davantage au sujet de Getting Things Done dans la section
 
 ## Numérique ou papier
 
-Il y a de nombreuses applications de prise de note pour le PC et les téléphones.
+Il y a de nombreuses applications de prise de note pour le PC et les mobiles.
 Je préfère toutefois mon carnet en papier.
 
 Avantages du carnet papier:
@@ -110,11 +105,11 @@ Avantages du carnet papier:
 * Toujours fonctionnel, jamais de bogue ou de mises à jour intempestives.
 * On peut déchirer une page pour donner une note à quelqu'un.
 * Aucune contrainte d'écriture, on peut gribouiller, dessiner un plan.
-* Je ne dépends pas d'un fournisseur pour la sécurité  et l'accès à mes données.
+* Ne présuppose pas la stabilité et la bienveillance des industries de la télécommunication et de la nimbo-informatique mondiale.
 
 Applications:
 
 * [Google Keep](https://keep.google.com/)
 * [Noteself](https://noteself.github.io/)
 * [Evernote](https://evernote.com/)
-* Un dictaphone
+* Une application dictaphone quelconque.
