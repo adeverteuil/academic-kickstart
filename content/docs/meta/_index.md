@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Metadocumentation
+linktitle: <metadocumentation>
 summary: Documentation about my site
 weight: 1
 
@@ -17,6 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   docs:
+    weight: 3
   meta:
     name: Overview
 ---
