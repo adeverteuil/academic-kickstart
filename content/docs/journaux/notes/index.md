@@ -5,7 +5,7 @@ title: "Notes"
 linktitle: "Notes"
 summary:
 date: 2019-12-29T15:45:21-05:00
-lastmod: 2020-01-19
+lastmod: 2020-01-25
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -33,8 +33,8 @@ lorsque je suis un cours en ligne, lorsque j'écoute une présentation sur YouTu
 lorsqu'un ami m'enseigne quelque chose,
 ou lorsque je fais une recherche sur un sujet en particulier.
 
-Je note souvent la structure du message et les points clés, ainsi que les références vers les sources.
-Ce cahier constitue un index de connaissance acquises et facilite grandement l'accès aux détails si je dois m'y référer dans le futur.
+Je note souvent la structure du message et les points clés, ainsi que les références vers les sources
+pour constituer un index de connaissance acquises.
 
 Ça sert également à augmenter ma rétention d'information car l'écriture renforce l'apprentissage.
 

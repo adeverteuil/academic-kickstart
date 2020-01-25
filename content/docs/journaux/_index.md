@@ -5,7 +5,7 @@ title: "Journaux"
 linktitle: "Journaux"
 summary:
 date: 2019-12-29T15:45:21-05:00
-lastmod: 2020-01-19
+lastmod: 2020-01-25
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -35,6 +35,7 @@ J'ai essayé des systèmes numériques, analogiques et hybrides.
 
 J'ai également investi du temps à pratiquer, lire, étudier et rechercher:
 
+* l'administration de systèmes,
 * l'art oratoire,
 * la documentation d'entreprise,
 * la psychologie,
@@ -79,17 +80,26 @@ Je documente ensuite d'autres outils indispensables selon le contexte, la profes
 
 ## L'importance d'écrire un journal
 
-* Il n'y a pas de différence entre discuter et réfléchir, réfléchir c'est discuter et discuter c'est réfléchir.
-* Écrire est une forme de discussion avec soi. Une autre forme de pensée serait une discussion avec un ami ou un psychothérapeute ou avec un groupe de personnes ou un "auditoire".
-* Nous somme des réplicats de la structure la plus complexe de l'univers connu (dit le cerveau en se regardant soi-même). Chaque personne est également un centre de l'univers. Ce que cela implique:
-    * Il faut placer beaucoup de papier et de crayons à notre disposition, la structure la plus complexe de l'univers a besoin de matériel.
-    * La complexité de notre système de systèmes justifie parfaitement 7 à 15 journaux différents.
-      Certaines célébrités ont des assistants et des gestionnaires pour les aider.
-* En particulier, ça a été pour moi un mécanisme de détection efficace contre la manipulation car je documente toutes mes intéractions. Je pense que rien n'est plus important pour m'assurer un réseau social fort que de porter attention à toutes mes intéractions.
-* Mes récits me procurent le sentiment que chaque jour de ma vie est significatif et beau.
-* It's extremely sustainable. It feeds its own future improvements. It's how us, human beings, for as much as we are autonomous systems, do continuous improvement on ourselves.
-* [Jordan B. Peterson explique l'importance de savoir écrire et organiser ses pensées](https://youtu.be/nsZ8XqHPjI4?t=8289) [from 2:18:09 to 2:21:41]
-* Cartographie sociale et identitaire. À mettre en relation avec la méta-histoire, la mythologie, la psychologie.
+Les arguments pour écrire un journal sont difficiles à nier.
+
+[Jordan B. Peterson explique l'importance de savoir écrire et organiser ses pensées](https://youtu.be/nsZ8XqHPjI4?t=8289) [de 2:18:09 à 2:21:41].
+
+Nous somme des réplicats de la structure la plus complexe de l'univers connu (dit le cerveau en se regardant soi-même).
+Chaque personne est également un centre de l'univers.
+La complexité de notre système de systèmes justifie parfaitement 7 à 15 journaux différents.
+Il faut placer beaucoup de papier et de crayons à notre disposition, la structure la plus complexe de l'univers a besoin de matériel.
+Certaines célébrités ont des assistants et des gestionnaires pour les aider.
+
+Mes journaux forment une carte de mon réseau social et de mon identité et ses transformations,
+et mes différentes "personnalités" ou modes de comportement.
+À toutes fins pratiques notre environnement est pricipalement constitué d'autres personnes
+avec qui nous interagissons, et qui ont leur propre personnalité et leurs propres transformations.
+Tenir un journal de nos interactions aide à augmenter la portée et la qualité de son réseau.
+
+Mais plus important encore, l'écriture me procure le sentiment que chaque jour de ma vie est significatif et beau.
+Ça me fait réaliser l'influence que je peux avoir et le nombre de personnes avec lesquelles j'interragis.
+Ça me permet également de retourner à des centaines de moments de beauté, de réalisation, et de transformation, comme si j'y étais à nouveau.
+C'est trop dommage d'abandonner la majorité de nos jours à l'oubli.
 
 
 ## Le journal avec lequel tu vas commencer

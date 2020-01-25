@@ -5,7 +5,7 @@ title: "Association libre"
 linktitle: "Association libre"
 summary:
 date: 2019-12-29T15:45:21-05:00
-lastmod: 2020-01-19
+lastmod: 2020-01-25
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -73,7 +73,7 @@ J'écris au stylo à bille pour éliminer la tentation de regret ou de retour en
   Ça pourrait être des couleurs, des noms propres.
 
 
-### Méthode 1: sans prédicat
+### Méthode 1: sans thème
 
 1. Activer un minuteur de 10 minutes.
 2. Commencer à écrire.

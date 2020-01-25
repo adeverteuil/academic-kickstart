@@ -5,7 +5,7 @@ title: "Classeur"
 linktitle: "Classeur"
 summary:
 date: 2019-12-29T15:45:21-05:00
-lastmod: 2020-01-18
+lastmod: 2020-01-25
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -24,15 +24,10 @@ weight: 11
 
 ## Introduction
 
-David Allan suggère d'adopter un simple système alphabétique.
+David Allan suggère d'adopter un simple système alphabétique, mais moi je trouve ça insuffisant.
 
 J'ai toujours trouvé que les techniques de filières rotatives de FreedomFiler™ étaient géniales.
 J'ai créé mes étiquettes il y a plus de 10 ans et ça fonctionne toujours.
-
-* filière rotative
-* filière permanente
-* filière de référence A-Z
-* FreedomFiler™
 
 
 ## Documentation
@@ -77,3 +72,13 @@ Un curseur "annuel" est déplacé à chaque mois.
 
 
 ## <span style="background-color: #db7523;">Section orange</span> — Récent
+
+Pour les documents qui sont renouvelés irrégulièrement et dont uniquement la dernière copie est requise.
+
+* Contrats d'ouverture de comptes.
+* Contrats d'assurance.
+* Bail de logement.
+
+Lorsqu'une version mise à jour d'un document arrive par la poste,
+transférer l'ancienne version dans l'archive rotative verte (24 mois) ou bleue (10 ans),
+et classer la nouvelle version dans la chemise orange.

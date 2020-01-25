@@ -59,9 +59,15 @@ Le classique notebook Molesikne.
 
 * Le soir, avant d'aller dormir, j'ouvre mon journal et je me pose la question:
   « Si j'avais à raconter une histoire de 5 minutes sur un moment de ma journée, quel serait ce moment? »
-* Je note également plus qu'une histoire si j'en ai.
-* Je note également des histoires du passé et dont je me rappelle à l'instant.
+* Je note plus qu'une histoire si j'en ai.
+* Je note des histoires du passé et dont je me rappelle à l'instant.
+* Je note les moments humoristiques parce que je trouve que ça manque dans ma vie et dans ma parole et j'ai besoin d'écrire le peu dont je peux me rappeler.
+
+
+## Références
+
 * Inspiré par Matthew Dicks, [Homework for Life](http://www.matthewdicks.com/matthewdicksblog/2015/12/13/tedx-berkshires-homework-for-life).
+* Je recommande de lire le livre de Matthew Dicks, [Storyworthy](https://www.amazon.ca/dp/1608685489/ref=cm_sw_em_r_mt_dp_U_winlEbXNHXYDV):
+  Engage, Teach, Persuade, and Change Your Life Through the Power of Storytelling.
 * Souvent un contenu similaire au [journal quotidien]({{< relref "quotidien/" >}}),
   mais celui-ci est focussé sur les moments de transformation personnelle, noyaux d'un éventuel discours narratif.
-* Je note également les moments humoristiques parce que je trouve que ça manque dans ma vie et dans ma parole.
