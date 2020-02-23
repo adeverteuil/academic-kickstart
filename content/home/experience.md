@@ -17,6 +17,22 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "VP of Education"
+  company = "Club Toastmasters Montréal"
+  company_url = "https://www.clubtoastmastersmontreal.org/"
+  location = "Montreal"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """
+  Volunteer implication at my local Toastmasters club.
+  * Produce weekly meeting agenda
+  * Track members' educational progress
+  * Organize the club's annual speaking contest
+  * Reach club's goals towards Toastmasters Distinguished Clubs program
+  """
+
 [[experience]]
   title = "Senior Customer Engineer"
   company = "Grafana Labs"
@@ -27,7 +43,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Customer support
+  * Enterprise and Cloud customer support
+  * Escalate problem reports to engineering
+  * Interview candidates
   * Internal training
   * Documentation
   """
