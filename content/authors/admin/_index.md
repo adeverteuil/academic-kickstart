@@ -1,6 +1,7 @@
 ---
 # Display name
 name: Alexandre de Verteuil
+#title: Alexandre de Verteuil
 
 # Username (this should match the folder name)
 authors:
