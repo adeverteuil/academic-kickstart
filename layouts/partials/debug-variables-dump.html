@@ -1,0 +1,340 @@
+<h2>Variables navigation</h2>
+<ol>
+<li><a href="#vars-dump-page">Page variables </a></li>
+  <ol>
+  <li><a href="#vars-dump-data">.Data</a></li>
+  <li><a href="#vars-dump-content">.Content</a></li>
+  <li><a href="#vars-dump-rawcontent">.RawContent</a></li>
+  <li><a href="#vars-dump-plain">.Plain</a></li>
+  <li><a href="#vars-dump-plainwords">.PlainWords</a></li>
+  <li><a href="#vars-dump-params">.Params</a></li>
+  </ol>
+<li><a href="#vars-dump-file">File variables</a></li>
+<li><a href="#vars-dump-scalars"><strong>Scalar .Site variables</strong></a></li>
+<li><a href="#vars-dump-gitinfo">.GitInfo</a></li>
+<li><a href="#vars-dump-lists">List .Site variables</a>
+  <ol>
+  <li><a href="#vars-dump-list-languages">.Site.Languages</a></li>
+  <li><a href="#vars-dump-list-taxonomies">.Site.Taxonomies</a></li>
+  <li><a href="#vars-dump-list-regularpages"><strong>.Site.RegularPages</strong></a></li>
+  <li><a href="#vars-dump-list-pages">.Site.Pages</a></li>
+  <li><a href="#vars-dump-list-allpages">.Site.AllPages</a></li>
+  <li><a href="#vars-dump-list-sections"><strong>.Site.Sections</strong></a></li>
+  <li><a href="#vars-dump-list-params">.Site.Params</a></li>
+  <li><a href="#vars-dump-list-menus"><strong>.Site.Menus</strong></a></li>
+    <ol>
+    {{ range $key, $value := .Site.Menus }}
+    <li><a href="#vars-dump-list-menus-{{ $key }}">{{ $key }}</a></li>
+    {{ end }}
+    </ol>
+  </ol>
+  </li>
+<li><a href="#vars-dump-resources">.Resources</a></li>
+</ol>
+
+
+<h2 id="vars-dump-page">Page variables</h2>
+<table>
+  <thead>
+    <tr><th>Variable name</th><th>Value</th><th>Description</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>.Date</td><td>{{ .Date }}</td><td>the date associated with the page; <code>.Date</code> pulls from the <code>date</code> field in a content’s front matter. See also <code>.ExpiryDate</code>, <code>.PublishDate</code>, and <code>.Lastmod</code>.</td></tr>
+    <tr><td>.Description</td><td>{{ .Description }}</td><td>the description for the page.</td></tr>
+    <tr><td>.Draft</td><td>{{ .Draft }}</td><td>a boolean, <code>true</code> if the content is marked as a draft in the front matter.</td></tr>
+    <tr><td>.ExpiryDate</td><td>{{ .ExpiryDate }}</td><td>the date on which the content is scheduled to expire; <code>.ExpiryDate</code> pulls from the <code>expirydate</code> field in a content’s front matter. See also <code>.PublishDate</code>, <code>.Date</code>, and <code>.Lastmod</code>.</td></tr>
+    <tr><td>.File</td><td>{{ .File }}</td><td>filesystem-related data for this content file. See also <a href="https://gohugo.io/variables/files/">File Variables</a>.</td></tr>
+    <tr><td>.FuzzyWordCount</td><td>{{ .FuzzyWordCount }}</td><td>the approximate number of words in the content.</td></tr>
+    <tr><td>.IsHome</td><td>{{ .IsHome }}</td><td><code>true</code> in the context of the <a href="https://gohugo.io/templates/homepage/">homepage</a>.</td></tr>
+    <tr><td>.IsNode</td><td>{{ .IsNode }}</td><td>always <code>false</code> for regular content pages.</td></tr>
+    <tr><td>.IsPage</td><td>{{ .IsPage }}</td><td>always <code>true</code> for regular content pages.</td></tr>
+    <tr><td>.IsTranslated</td><td>{{ .IsTranslated }}</td><td><code>true</code> if there are translations to display.</td></tr>
+    <tr><td>.Keywords</td><td>{{ .Keywords }}</td><td>the meta keywords for the content.</td></tr>
+    <tr><td>.Kind</td><td>{{ .Kind }}</td><td>the page’s <em>kind</em>. Possible return values are <code>page</code>, <code>home</code>, <code>section</code>, <code>taxonomy</code>, or <code>taxonomyTerm</code>. Note that there are also <code>RSS</code>, <code>sitemap</code>, <code>robotsTXT</code>, and <code>404</code> kinds, but these are only available during the rendering of each of these respective page’s kind and therefore <em>not</em> available in any of the <code>Pages</code> collections.</td></tr>
+    <tr><td>.Lang</td><td>{{ .Lang }}</td><td>language taken from the language extension notation.</td></tr>
+    <tr><td>.Language</td><td>{{ .Language }}</td><td>a language object that points to the language’s definition in the site
+    <code>config</code>.</td></tr>
+    <tr><td>.Lastmod</td><td>{{ .Lastmod }}</td><td><p class="expand">the date the content was last modified. <code>.Lastmod</code> pulls from the <code>lastmod</code> field in a content’s front matter.</p>
+      <ul>
+      <li class="expand">If <code>lastmod</code> is not set, and <code>.GitInfo</code> feature is disabled, the front matter <code>date</code> field will be used.</li>
+      <li class="expand">If <code>lastmod</code> is not set, and <code>.GitInfo</code> feature is enabled, <code>.GitInfo.AuthorDate</code> will be used instead.</li>
+      </ul></td></tr>
+    <tr><td>.LinkTitle</td><td>{{ .LinkTitle }}</td><td>access when creating links to the content. If set, Hugo will use the <code>linktitle</code> from the front matter before <code>title</code>.</td></tr>
+    <tr><td>.OutputFormats</td><td>{{ .OutputFormats }}</td><td>contains all formats, including the current format, for a given page. Can be combined the with <a href="https://gohugo.io/functions/get/" class="expand"><code>.Get</code> function</a> to grab a specific format. (See <a href="https://gohugo.io/templates/output-formats/">Output Formats</a>.)</td></tr>
+    <tr><td>.PrevPage</td><td>{{ if isset . "PrevPage" }}{{ .PrevPage.Permalink }}{{ end }}</td><td>Pointer to the previous <a href="https://gohugo.io/variables/site/#site-pages">regular page</a> (sorted by Hugo’s <a href="https://gohugo.io/templates/lists#default-weight-date-linktitle-filepath">default sort</a>).</td></tr>
+    <tr><td>.NextPage</td><td>{{ if isset . "NextPage" }}{{ .NextPage.Permalink }}{{ end }}</td><td>Pointer to the next <a href="https://gohugo.io/variables/site/#site-pages">regular page</a> (sorted by Hugo’s <a href="https://gohugo.io/templates/lists#default-weight-date-linktitle-filepath">default sort</a>).</td></tr>
+    <tr><td>.PrevInSection</td><td>{{ if isset . "PrevInSection" }}{{ .PrevInSection.Permalink }}{{ end }}</td><td>Pointer to the previous <a href="https://gohugo.io/variables/site/#site-pages">regular page</a> within the same section. Pages are sorted by Hugo’s <a href="https://gohugo.io/templates/lists#default-weight-date-linktitle-filepath">default sort</a>.</td></tr>
+    <tr><td>.NextInSection</td><td>{{ if isset . "NextInSection" }}{{ .NextInSection.Permalink }}{{ end }}</td><td>Pointer to the next <a href="https://gohugo.io/variables/site/#site-pages">regular page</a> within the same section. Pages are sorted by Hugo’s <a href="https://gohugo.io/templates/lists#default-weight-date-linktitle-filepath">default sort</a>.</td></tr>
+    <tr><td>.Pages</td><td><ul>{{ range .Pages }}<li><a href="{{ .RelPermalink }}">{{ .RelPermalink }}</a></li>{{ end }}</ul></td><td>a collection of associated pages. This value will be <code>nil</code> within
+    the context of regular content pages. See <a href="https://gohugo.io/variables/page/#pages" class="expand"><code>.Pages</code></a>.</td></tr>
+    <tr><td>.Permalink</td><td>{{ .Permalink }}</td><td>the Permanent link for this page; see <a href="https://gohugo.io/content-management/urls/">Permalinks</a></td></tr>
+    <tr><td>.PublishDate</td><td>{{ .PublishDate }}</td><td>the date on which the content was or will be published; <code>.Publishdate</code> pulls from the <code>publishdate</code> field in a content’s front matter. See also <code>.ExpiryDate</code>, <code>.Date</code>, and <code>.Lastmod</code>.</td></tr>
+    <tr><td>.ReadingTime</td><td>{{ .ReadingTime }}</td><td>the estimated time, in minutes, it takes to read the content.</td></tr>
+    <tr><td>.RelPermalink</td><td>{{ .RelPermalink }}</td><td>the relative permanent link for this page.</td></tr>
+    <tr><td>.Section</td><td>{{ .Section }}</td><td>The <a href="https://gohugo.io/content-management/sections/">section</a> this content belongs to. <strong>Note:</strong> For nested sections, this is the first path element in the directory, for example, <code>/blog/funny/mypost/ =&gt; blog</code>.</td></tr>
+    <tr><td>.Sections</td><td>{{ .Sections }}</td><td>The <a href="https://gohugo.io/content-management/sections/">sections</a> below this content.</td></tr>
+    <tr><td>.Summary</td><td>{{ .Summary }}</td><td>a generated summary of the content for easily showing a snippet in a summary view. The breakpoint can be set manually by inserting <code>&lt;!--more--&gt;</code> at the appropriate place in the content page. See <a href="https://gohugo.io/content-management/summaries/">Content Summaries</a> for more details.</td></tr>
+    <tr><td>.Title</td><td>{{ .Title }}</td><td>the title for this page.</td></tr>
+    <tr><td>.Translations</td><td><ul>{{ range .Translations }}<li>{{ . }}</li>{{ end }}</ul></td><td>a list of translated versions of the current page. See <a href="https://gohugo.io/content-management/multilingual/">Multilingual Mode</a> for more information.</td></tr>
+    <tr><td>.Truncated</td><td>{{ .Truncated }}</td><td>a boolean, <code>true</code> if the <code>.Summary</code> is truncated. Useful for showing a “Read more…” link only when necessary.  See <a href="https://gohugo.io/content-management/summaries/">Summaries</a> for more information.</td></tr>
+    <tr><td>.Type</td><td>{{ .Type }}</td><td>the <a href="https://gohugo.io/content-management/types/">content type</a> of the content (e.g., <code>post</code>).</td></tr>
+    <tr><td>.Weight</td><td>{{ .Weight }}</td><td>assigned weight (in the front matter) to this content, used in sorting.</td></tr>
+    <tr><td>.WordCount</td><td>{{ .WordCount }}</td><td>the number of words in the content.</td></tr>
+  </tbody>
+</table>
+
+<h3 id="vars-dump-data">.Data</h3>
+<p>The data specific to this type of page.</p>
+{{ .Data | jsonify }}
+
+<h3 id="vars-dump-content">.Content</h3>
+<p>The content itself, defined below the front matter.</p>
+<div class="container-fluid docs-container">
+  <aside class="docs-aside-menu">
+  </aside>
+
+  <div class="docs-content">
+    <div class="docs-content-inner debug" id="doc-article-text">
+      {{ .Content }}
+    </div>
+  </div>
+</div>
+
+
+<h3 id="vars-dump-rawcontent">.RawContent</h3>
+<p>Raw markdown content without the front matter. Useful with <a href="http://remarkjs.com">remarkjs.com</a></p>
+<pre class="callout">{{ if isset . "RawContent" }}{{ .RawContent }}{{ end }}</pre>
+
+
+<h3 id="vars-dump-plain">.Plain</h3>
+<p>The Page content stripped of HTML tags and presented as a string.</p>
+<p>{{ .Plain }}</p>
+
+
+<h3 id="vars-dump-plainwords">.PlainWords</h3>
+<p>the Page content stripped of HTML as a <code>[]string</code> using Go’s <a href="https://golang.org/pkg/strings/#Fields" class="expand"><code>strings.Fields</code></a> to split <code>.Plain</code> into a slice.</p>
+<p><strong>[</strong> {{ range $i, $e := .PlainWords }}{{ if $i }}, {{ end }}<code>{{ $e }}</code>{{ end }} <strong>]</strong></p>
+
+
+<h3 id="vars-dump-tableofcontents">.TableOfContents</h3>
+<p>The rendered <a href="https://gohugo.io/content-management/toc/">table of contents</a> for the page.</p>
+{{ .TableOfContents }}
+
+
+<h3 id="vars-dump-params">.Params</h3>
+{{ .Params | jsonify }}
+
+
+<h2 id="vars-dump-file">.File variables</h2>
+
+<table>
+  <thead>
+    <tr><th>Variable name</th><th>Value</th><th>Description</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>.File.Path</td><td>{{ with .File }}{{ .Path }}{{ end }}</td><td>the original relative path of the page, relative to the content dir (e.g., <code>posts/foo.en.md</code>)</td></tr>
+    <tr><td>.File.LogicalName</td><td>{{ .File.LogicalName }}</td><td>the name of the content file that represents a page (e.g., <code>foo.en.md</code>)</td></tr>
+    <tr><td>.File.TranslationBaseName</td><td>{{ .File.TranslationBaseName }}</td><td>the filename without extension or optional language identifier (e.g., <code>foo</code>)</td></tr>
+    <tr><td>.File.ContentBaseName</td><td>{{ .File.ContentBaseName }}</td><td>is a either TranslationBaseName or name of containing folder if file is a leaf bundle.</td></tr>
+    <tr><td>.File.BaseFileName</td><td>{{ .File.BaseFileName }}</td><td>the filename without extension (e.g., <code>foo.en</code>)</td></tr>
+    <tr><td>.File.Ext</td><td>{{ .File.Ext }}</td><td>the file extension of the content file (e.g., <code>md</code>); this can also be called using <code>.File.Extension</code> as well. Note that it is only the extension without <code>.</code>.</td></tr>
+    <tr><td>.File.Lang</td><td>{{ .File.Lang }}</td><td>the language associated with the given file if Hugo's Multilingual features are enabled (e.g., <code>en</code>)</td></tr>
+    <tr><td>.File.Dir</td><td>{{ .File.Dir }}</td><td>given the path <code>content/posts/dir1/dir2/</code>, the relative directory path of the content file will be returned (e.g., <code>posts/dir1/dir2/</code>). Note that the path separator (<code>\</code> or <code>/</code>) could be dependent on the operating system.</td></tr>
+    <tr><td>.File.UniqueID</td><td>{{ .File.UniqueID }}</td><td>the MD5-checksum of the content file's path.</td></tr>
+  </tbody>
+</table>
+
+
+<h2 id="vars-dump-scalars">Scalar .Site variables</h2>
+<table>
+  <thead>
+    <tr><th>Variable name</th><th>Value</th><th>Meaning</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>.Site.BaseURL</td><td>{{ .Site.BaseURL }}</td><td>the base URL for the site as defined in the site configuration.</td></tr>
+    <tr><td>.Site.Copyright</td><td>{{ .Site.Copyright }}</td><td>a string representing the copyright of your website as defined in the site configuration.</td></tr>
+    <tr><td>.Site.GoogleAnalytics</td><td>{{ .Site.GoogleAnalytics }}</td><td>a string representing your tracking code for Google Analytics as defined in the site configuration.</td></tr>
+    <tr><td>.Site.IsMultiLingual</td><td>{{ .Site.IsMultiLingual }}</td><td>whether there are more than one language in this site. See <a href="https://gohugo.io/content-management/multilingual/">Multilingual</a> for more information.</td></tr>
+    <tr><td>.Site.Language.Lang</td><td>{{ .Site.Language.Lang }}</td><td>the language code of the current locale (e.g., <code>en</code>).</td></tr>
+    <tr><td>.Site.Language.LanguageName</td><td>{{ .Site.Language.LanguageName }}</td><td>the full language name (e.g. <code>English</code>).</td></tr>
+    <tr><td>.Site.LastChange</td><td>{{ .Site.LastChange }}</td><td>a string representing the date/time of the most recent change to your site. This string is based on the <a href="https://gohugo.io/content-management/front-matter"><code>date</code> variable in the front matter</a> of your content pages.</td></tr>
+    <tr><td>.Site.Title</td><td>{{ .Site.Title }}</td><td>a string representing the title of the site.</td></tr>
+  </tbody>
+</table>
+<h2 id="vars-dump-gitinfo">.GitInfo</h2>
+<p>Get the last Git revision information for every content file.</p>
+<p>
+{{ if .GitInfo }}
+  {{ .GitInfo | jsonify }}
+{{ else }}
+  .GitInfo is not defined
+{{ end }}
+</p>
+
+<h2 id="vars-dump-lists">List .Site variables</h2>
+<h3 id="vars-dump-list-languages">.Site.Languages</h3>
+<ol>
+{{ range .Site.Languages }}
+  <li>{{ . | jsonify }}</li>
+{{ end }}
+</ol>
+<h3 id="vars-dump-list-taxonomies">.Site.Taxonomies</h3>
+<ol>
+{{ range .Site.Taxonomies }}
+  <li>{{ . }}</li>
+{{ end }}
+</ol>
+<h3 id="vars-dump-list-regularpages">.Site.RegularPages</h3>
+<table>
+  <thead>
+  <tr>
+    <th>.Title</th>
+    <th>.RelPermalink</th>
+    <th>.File.Path</th>
+    <th>.IsHome</th>
+    <th>.IsNode</th>
+    <th>.IsPage</th>
+    <th>.IsTranslated</th>
+    <th>.Keywords</th>
+    <th>.Kind</th>
+    <th>.Lang</th>
+    <th>.Type</th>
+    <th>.Permalink</th>
+    <th>.Section</th>
+  </tr>
+  </thead>
+  <tbody>
+  {{ range .Site.RegularPages }}
+  <tr>
+    <td title=".Title">{{ .Title }}</td>
+    <td title=".RelPermalink"><a href="{{ .RelPermalink }}">{{ .RelPermalink }}</a></td>
+    <td title=".File.Path">{{ with .File }}{{ .Path }}{{ end }}</td>
+    <td title=".IsHome"{{ if .IsHome }} style="font-weight: bold; background: rgba(0, 255, 0, .1);" class="callout success"{{ end }}>{{ .IsHome }}</td>
+    <td title=".IsNode"{{ if .IsNode }} style="font-weight: bold; background: rgba(0, 255, 0, .1);" class="callout success"{{ end }}>{{ .IsNode }}</td>
+    <td title=".IsPage"{{ if .IsPage }} style="font-weight: bold; background: rgba(0, 255, 0, .1);" class="callout success"{{ end }}>{{ .IsPage }}</td>
+    <td title=".IsTranslated"{{ if .IsTranslated }} style="font-weight: bold; background: rgba(0, 255, 0, .1);" class="callout success"{{ end }}>{{ .IsTranslated }}</td>
+    <td title=".Keywords">{{ .Keywords }}</td>
+    <td title=".Kind">{{ .Kind }}</td>
+    <td title=".Lang">{{ .Lang }}</td>
+    <td title=".Type">{{ .Type }}</td>
+    <td title=".RelPermalink">{{ .RelPermalink }}</td>
+    <td title=".Section">{{ .Section }}</td>
+  </tr>
+  {{ end }}
+  </tbody>
+</table>
+<h3 id="vars-dump-list-pages">.Site.Pages</h3>
+<table>
+  <thead>
+  <tr>
+    <th>.Title</th>
+    <th>.RelPermalink</th>
+    <th>.File.Path</th>
+    <th>.IsHome</th>
+    <th>.IsNode</th>
+    <th>.IsPage</th>
+    <th>.IsTranslated</th>
+    <th>.Keywords</th>
+    <th>.Kind</th>
+    <th>.Lang</th>
+    <th>.Type</th>
+    <th>.RelPermalink</th>
+    <th>.Section</th>
+  </tr>
+  </thead>
+  <tbody>
+  {{ range .Site.Pages }}
+  <tr>
+    <td title=".Title">{{ .Title }}</td>
+    <td title=".RelPermalink"><a href="{{ .RelPermalink }}">{{ .RelPermalink }}</a></td>
+    <td title=".File.Path">{{ with .File }}{{ .Path }}{{ end }}</td>
+    <td title=".IsHome"{{ if .IsHome }} style="font-weight: bold; background: rgba(0, 255, 0, .1);" class="callout success"{{ end }}>{{ .IsHome }}</td>
+    <td title=".IsNode"{{ if .IsNode }} style="font-weight: bold; background: rgba(0, 255, 0, .1);" class="callout success"{{ end }}>{{ .IsNode }}</td>
+    <td title=".IsPage"{{ if .IsPage }} style="font-weight: bold; background: rgba(0, 255, 0, .1);" class="callout success"{{ end }}>{{ .IsPage }}</td>
+    <td title=".IsTranslated"{{ if .IsTranslated }} style="font-weight: bold; background: rgba(0, 255, 0, .1);" class="callout success"{{ end }}>{{ .IsTranslated }}</td>
+    <td title=".Keywords">{{ .Keywords }}</td>
+    <td title=".Kind">{{ .Kind }}</td>
+    <td title=".Lang">{{ .Lang }}</td>
+    <td title=".Type">{{ .Type }}</td>
+    <td title=".RelPermalink">{{ .RelPermalink }}</td>
+    <td title=".Section">{{ .Section }}</td>
+  </tr>
+  {{ end }}
+  </tbody>
+</table>
+<h3 id="vars-dump-list-allpages">.Site.AllPages</h3>
+<table>
+  <thead>
+  <tr>
+    <th>.Title</th>
+    <th>.RelPermalink</th>
+    <th>.File.Path</th>
+    <th>.IsHome</th>
+    <th>.IsNode</th>
+    <th>.IsPage</th>
+    <th>.IsTranslated</th>
+    <th>.Keywords</th>
+    <th>.Kind</th>
+    <th>.Lang</th>
+    <th>.Type</th>
+    <th>.RelPermalink</th>
+    <th>.Section</th>
+  </tr>
+  </thead>
+  <tbody>
+  {{ range .Site.AllPages }}
+  <tr>
+    <td title=".Title">{{ .Title }}</td>
+    <td title=".RelPermalink"><a href="{{ .RelPermalink }}">{{ .RelPermalink }}</a></td>
+    <td title=".File.Path">{{ with .File }}{{ .Path }}{{ end }}</td>
+    <td title=".IsHome"{{ if .IsHome }} style="font-weight: bold; background: rgba(0, 255, 0, .1);" class="callout success"{{ end }}>{{ .IsHome }}</td>
+    <td title=".IsNode"{{ if .IsNode }} style="font-weight: bold; background: rgba(0, 255, 0, .1);" class="callout success"{{ end }}>{{ .IsNode }}</td>
+    <td title=".IsPage"{{ if .IsPage }} style="font-weight: bold; background: rgba(0, 255, 0, .1);" class="callout success"{{ end }}>{{ .IsPage }}</td>
+    <td title=".IsTranslated"{{ if .IsTranslated }} style="font-weight: bold; background: rgba(0, 255, 0, .1);" class="callout success"{{ end }}>{{ .IsTranslated }}</td>
+    <td title=".Keywords">{{ .Keywords }}</td>
+    <td title=".Kind">{{ .Kind }}</td>
+    <td title=".Lang">{{ .Lang }}</td>
+    <td title=".Type">{{ .Type }}</td>
+    <td title=".RelPermalink">{{ .RelPermalink }}</td>
+    <td title=".Section">{{ .Section }}</td>
+  </tr>
+  {{ end }}
+  </tbody>
+</table>
+<h3 id="vars-dump-list-sections">.Site.Sections</h3>
+<ol>
+{{ range .Site.Sections }}
+  <li>{{ . }}</li>
+{{ end }}
+</ol>
+<h3 id="vars-dump-list-params">.Site.Params</h3>
+<code>.Site.Params</code> is a container holding the values from the <code>params</code> section of your site configuration.
+<pre class="callout"><code>{{ .Site.Params | jsonify }}</code></pre>
+<h3 id="vars-dump-list-menus">.Site.Menus</h3>
+{{ range $key, $value := .Site.Menus }}
+<h4 id="vars-dump-list-menus-{{ $key }}">{{ $key }}</h4>
+{{ partial "debug-menu-listing.html" . }}
+{{ end }}
+<h2 id="vars-dump-resources">.Resources</h2>
+<p>Page Resources – images, other pages, documents etc. – have page-relative URLs and their own metadata.</p>
+<table>
+  <thead>
+  <tr>
+    <th>.ResourceType</th>
+    <th>.Name</th>
+    <th>.Title</th>
+    <th>.RelPermalink</th>
+    <th>.MediaType</th>
+  </tr>
+  </thead>
+  <tbody>
+  {{ range .Resources }}
+  <tr>
+    <td title=".ResourceType">{{ .ResourceType }}</td>
+    <td title=".Name">{{ .Name }}</td>
+    <td title=".Title">{{ .Title }}</td>
+    <td title=".RelPermalink"><a href="{{ .RelPermalink }}">{{ .RelPermalink }}</a></td>
+  </tr>
+  {{ end }}
+  </tbody>
+</table>

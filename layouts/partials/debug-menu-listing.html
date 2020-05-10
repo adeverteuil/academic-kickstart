@@ -1,0 +1,47 @@
+<table>
+  <thead>
+  <tr>
+    <th>.Menu</th>
+    <th>.URL</th>
+    <th>.Page.Title</th>
+    <th>.Name</th>
+    <th>.Identifier</th>
+    <th>.Pre</th>
+    <th>.Post</th>
+    <th>.Weight</th>
+    <th>.Parent</th>
+    <th>.HasChildren()</th>
+    <th>.Children</th>
+    <th>.KeyName()</th>
+    <th>.Title()</th>
+  </tr>
+  </thead>
+  <tbody>
+  {{ range . }}
+  <tr>
+    <td title=".Menu">{{ .Menu }}</td>
+    <td title=".URL">{{ with .URL }}<a href="{{ . }}">{{ . }}</a>{{ end }}</td>
+    <td title=".Page">{{ with .Page }}{{ .Title }}{{ end }}</td>
+    <td title=".Name">{{ .Name }}</td>
+    <td title=".Identifier">{{ .Identifier }}</td>
+    <td title=".Pre">{{ .Pre }}</td>
+    <td title=".Post">{{ .Post }}</td>
+    <td title=".Weight">{{ with .Weight }}{{ . }}{{ end }}</td>
+    <td title=".Parent">{{ .Parent }}</td>
+    <td title=".HasChildren"{{ if .HasChildren }} style="font-weight: bold; color: white;"{{ end }}>{{ .HasChildren }}</td>
+    <td title=".Children"><ul>{{ range .Children }}<li>{{ .KeyName }}</li>{{ end }}</ul></td>
+    <td title=".KeyName">{{ .KeyName }}</td>
+    <td title=".Title">{{ .Title }}</td>
+  </tr>
+  {{ end }}
+  </tbody>
+</table>
+
+{{ range . }}
+{{ if .HasChildren }}
+<div style="margin-left: 20px; border-left: 2px solid #555; padding-left: 5px;">
+<h4>Children menus for '{{ .Identifier }}'</h4>
+{{ partial "debug-menu-listing.html" .Children }}
+</div>
+{{ end }}
+{{ end }}
