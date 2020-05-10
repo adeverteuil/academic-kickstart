@@ -29,6 +29,7 @@ projects: []
 ---
 
 Collection de photos d'arcs-en-ciel de Montréal durant la pandémie de COVID-19.
+Les photos ont été prises entre le 25 mars et le 9 mai 2020.
 
 Ça va bien aller — *It is going to be fine*
 
