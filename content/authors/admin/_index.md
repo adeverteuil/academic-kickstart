@@ -72,11 +72,11 @@ user_groups:
 ## English
 
 Computer professionnal in Montreal, Canada.
-Currently working as a Senior client engineer at [Grafana Labs](https://grafana.com/).
-I'm passionate about free (as in *libre*) software, automation and internet. 
+Currently working as a Senior customer engineer at [Grafana Labs](https://grafana.com/).
+I'm passionate about free (as in *libre*) software, organizing information and sharing knowledge.
 
 ## Français
 
 Professionel de l'informatique à Montréal, Canada.
 Actuellement Senior customer engineer chez [Grafana Labs](https://grafana.com/).
-Je suis passionné de logiciels libres, d'automatisation et d'internet. 
+Je suis passionné par les logiciels libres, l'organisation de l'information et le partage de connaissances. 
