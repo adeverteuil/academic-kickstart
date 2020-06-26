@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [ "$1" = "prod" ]; then
+    url="https://alexandre.deverteuil.net/"
+else
+    url="http://localhost:1313/"
+fi
+
+firefox "$url"
