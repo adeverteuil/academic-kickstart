@@ -20,7 +20,6 @@ menu:
     weight: 2
   journaux:
     weight: 1
-weight: 1
 ---
 
 ## Introduction

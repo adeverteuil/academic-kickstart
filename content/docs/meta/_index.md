@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   docs:
-    weight: 3
+    weight: 100
   meta:
     name: Overview
 ---
