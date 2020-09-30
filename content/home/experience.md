@@ -19,12 +19,31 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Technical Services Manager"
+  company = "Grafana Labs"
+  date_start = "2020-08-01"
+  company_url = "https://grafana.com/"
+  location = "Working from home"
+  description = """
+  Responsibilities include:
+  * Technical consulting and launch guidance
+  * Escalation and guidance for technical support
+  * Internal and external trainings
+  * Internal and public documentation
+
+  Expertise:
+  * Grafana dashboarding and advanced features
+  * Prometheus and PromQL
+  * Grafana Cloud
+  """
+
+[[experience]]
   title = "VP of Education"
   company = "Club Toastmasters Montréal"
   company_url = "https://www.clubtoastmastersmontreal.org/"
   location = "Montreal"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2020-07-01"
   description = """
   Volunteer implication at my local Toastmasters club.
   * Produce weekly meeting agenda
@@ -39,7 +58,7 @@ date_format = "Jan 2006"
   company_url = "https://grafana.com/"
   location = "Working from home"
   date_start = "2018-09-26"
-  date_end = ""
+  date_end = "2020-08-01"
   description = """
   Responsibilities include:
   

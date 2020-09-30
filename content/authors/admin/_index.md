@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Customer Engineer
+role: Technical Services Manager
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ bio: I do systems administration and customer support
 interests:
 - Systems administration
 - Business documentation
-- Parkour
+- Movement
 - Art
 
 education:
@@ -72,11 +72,11 @@ user_groups:
 ## English
 
 Computer professionnal in Montreal, Canada.
-Currently working as a Senior customer engineer at [Grafana Labs](https://grafana.com/).
+Currently working as a Technical Services Manager at [Grafana Labs](https://grafana.com/).
 I'm passionate about free (as in *libre*) software, organizing information and sharing knowledge.
 
 ## Français
 
 Professionel de l'informatique à Montréal, Canada.
-Actuellement Senior customer engineer chez [Grafana Labs](https://grafana.com/).
+Actuellement Technical Services Manager chez [Grafana Labs](https://grafana.com/).
 Je suis passionné par les logiciels libres, l'organisation de l'information et le partage de connaissances. 
