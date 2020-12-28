@@ -21,23 +21,23 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I do systems administration and customer support
 
-interests:
-- Systems administration
-- Business documentation
-- Movement
-- Art
+#interests:
+#- Systems administration
+#- Business documentation
+#- Movement
+#- Art
 
-education:
-  courses:
-  - course: Certificat en informatique appliquée
-    institution: Téluq
-    year: 2016
-  - course: Diplôme d'études collégiales en Arts plastiques
-    institution: Cégep de Longueuil
-    year: 2006
-  - course: Diplôme d'études collégiales en pilotage d'aéronefs
-    institution: Cégep de Chicoutimi
-    year: 2003
+#education:
+#  courses:
+#  - course: Certificat en informatique appliquée
+#    institution: Téluq
+#    year: 2016
+#  - course: Diplôme d'études collégiales en Arts plastiques
+#    institution: Cégep de Longueuil
+#    year: 2006
+#  - course: Diplôme d'études collégiales en pilotage d'aéronefs
+#    institution: Cégep de Chicoutimi
+#    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
