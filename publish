@@ -5,11 +5,17 @@ if [ "$1" = "static" ]; then
   rsync --verbose --recursive --chmod=ug=rwX,o=rX --delete "/home/alex/Documents/Blog files/" 192.168.13.14:static
 elif [ "$1" = "staging" ]; then
   hugo \
+    --environment staging \
     --buildDrafts \
     --buildFuture \
     --baseURL "https://staging.alexandre.deverteuil.net/" \
   && rsync --verbose --recursive --chmod=ug=rwX,o=rX --delete public/ 192.168.13.14:staging
 else
-  hugo \
-  && rsync --verbose --recursive --chmod=ug=rwX,o=rX --delete public/ 192.168.13.14:public
+  if [ "$(git branch --show-current = \"master\")" ]; then
+    hugo \
+    && rsync --verbose --recursive --chmod=ug=rwX,o=rX --delete public/ 192.168.13.14:public
+  else
+    echo "Not on the master branch. Aborting!"
+    exit 1
+  fi
 fi
