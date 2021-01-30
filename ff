@@ -2,6 +2,8 @@
 
 if [ "$1" = "prod" ]; then
     url="https://alexandre.deverteuil.net/"
+elif [ "$1" = "staging" ]; then
+    url="https://staging.alexandre.deverteuil.net/"
 else
     url="http://localhost:1313/"
 fi
