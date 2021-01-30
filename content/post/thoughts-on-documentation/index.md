@@ -102,13 +102,13 @@ Someone who wants to document will find a way despite sub-optimal systems.
 
 Someone who doesn't want to document will find a way not to do it despite a superb documentation system integrated to their main work tool.
 
-Make sure documentation skills are a hard requirement for hiring in your team.
+Make sure documentation skills and habits are a hard requirement for hiring in your team.
 
-## Make yourself replaceable
+## Always be replaceable
 
 If you are not replaceable, you are not promoteable.
 
-Always make yourself replaceable.
+Always be replaceable.
 
 You do this by being awesome at documentation.
 
@@ -125,7 +125,7 @@ What actually happens is you become _more_ valued,
 because you have a leverage effect.
 Your boss likes this more than another talented employee who has no influence on their surroundings.
 
-Teaching frequently ensures that you learn constantly and integrate what you learned.
+By teaching frequently, you learn constantly and integrate what you learned.
 It also guarantees that you are keeping up and have a constant edge.
 
 In my experience, it's been a great career strategy.
